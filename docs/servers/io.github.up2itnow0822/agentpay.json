@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.up2itnow0822/agentpay.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.up2itnow0822/agentpay.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.up2itnow0822/agentpay",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "agentpay-mcp",
-      "version": "4.2.1",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "3.1.0",
@@ -32,12 +21,25 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "4.2.1",
-        "deprecated": true,
+        "latest": "4.3.0",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-10-24",
+          "kind": "latest_changed",
+          "old_value": "4.2.1",
+          "new_value": "4.3.0"
+        },
+        {
+          "detected_on": "2026-10-24",
+          "kind": "undeprecated",
+          "old_value": "4.3.0",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [
