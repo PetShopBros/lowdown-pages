@@ -1,0 +1,57 @@
+{
+  "schema": "lowdown-server-page/1",
+  "name": "io.github.YawLabs/vew-mcp",
+  "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.yawlabs/vew-mcp.html",
+  "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.yawlabs/vew-mcp.json",
+  "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.YawLabs/vew-mcp",
+  "facts": [
+    {
+      "code": "declared_package_deprecated",
+      "registry_type": "npm",
+      "identifier": "@yawlabs/vew-mcp",
+      "version": "0.4.3",
+      "since": {
+        "on": "2026-10-22",
+        "basis": "first_check"
+      }
+    }
+  ],
+  "registry": {
+    "status": "active",
+    "version": "0.4.3",
+    "first_seen_on": "2026-10-19",
+    "baseline": true,
+    "removed_on": null,
+    "changes": []
+  },
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "@yawlabs/vew-mcp",
+      "declared_version": "0.4.3",
+      "transport": "stdio",
+      "state": {
+        "status": "found",
+        "latest": "0.4.3",
+        "deprecated": true,
+        "not_found_confirmed": false
+      },
+      "first_checked_on": "2026-10-22",
+      "events": []
+    }
+  ],
+  "limits": [
+    "Package code was not installed or run.",
+    "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
+    "Deprecated, yanked and project status are flags set on npm or PyPI by the package owner or index. They are not a judgment by Lowdown.",
+    "HTTP 404 facts are listed only after a later check also returned 404.",
+    "\"First recorded\" is the date Lowdown first saw a state, not the date the state began."
+  ],
+  "source": {
+    "name": "Lowdown",
+    "dataset": "https://github.com/PetShopBros/lowdown-data",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Lowdown (https://github.com/PetShopBros/lowdown-data), CC BY 4.0"
+  }
+}

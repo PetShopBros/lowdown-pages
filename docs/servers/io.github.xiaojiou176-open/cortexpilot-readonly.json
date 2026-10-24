@@ -1,0 +1,59 @@
+{
+  "schema": "lowdown-server-page/1",
+  "name": "io.github.xiaojiou176-open/cortexpilot-readonly",
+  "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.xiaojiou176-open/cortexpilot-readonly.html",
+  "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.xiaojiou176-open/cortexpilot-readonly.json",
+  "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.xiaojiou176-open/cortexpilot-readonly",
+  "facts": [
+    {
+      "code": "declared_package_project_status",
+      "registry_type": "pypi",
+      "identifier": "cortexpilot-orchestrator",
+      "project_status": "archived",
+      "since": {
+        "on": "2026-10-23",
+        "basis": "first_check"
+      }
+    }
+  ],
+  "registry": {
+    "status": "deprecated",
+    "version": "0.1.0a4",
+    "first_seen_on": "2026-10-19",
+    "baseline": true,
+    "removed_on": null,
+    "changes": []
+  },
+  "packages": [
+    {
+      "registry_type": "pypi",
+      "identifier": "cortexpilot-orchestrator",
+      "declared_version": "0.1.0a4",
+      "transport": "stdio",
+      "state": {
+        "status": "found",
+        "latest": "0.1.0a4",
+        "latest_yanked": false,
+        "project_status": "archived",
+        "not_found_kind": null,
+        "not_found_confirmed": false
+      },
+      "first_checked_on": "2026-10-23",
+      "events": []
+    }
+  ],
+  "limits": [
+    "Package code was not installed or run.",
+    "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
+    "Deprecated, yanked and project status are flags set on npm or PyPI by the package owner or index. They are not a judgment by Lowdown.",
+    "HTTP 404 facts are listed only after a later check also returned 404.",
+    "\"First recorded\" is the date Lowdown first saw a state, not the date the state began."
+  ],
+  "source": {
+    "name": "Lowdown",
+    "dataset": "https://github.com/PetShopBros/lowdown-data",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Lowdown (https://github.com/PetShopBros/lowdown-data), CC BY 4.0"
+  }
+}

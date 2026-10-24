@@ -1,0 +1,59 @@
+{
+  "schema": "lowdown-server-page/1",
+  "name": "io.github.albertbolanoss/labs_mcp",
+  "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.albertbolanoss/labs_mcp.html",
+  "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.albertbolanoss/labs_mcp.json",
+  "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.albertbolanoss/labs_mcp",
+  "facts": [
+    {
+      "code": "declared_package_not_found",
+      "registry_type": "pypi",
+      "identifier": "labs-mcp-server",
+      "not_found_kind": "no_project",
+      "since": {
+        "on": "2026-10-23",
+        "basis": "first_check"
+      }
+    }
+  ],
+  "registry": {
+    "status": "active",
+    "version": "0.1.1",
+    "first_seen_on": "2026-10-19",
+    "baseline": true,
+    "removed_on": null,
+    "changes": []
+  },
+  "packages": [
+    {
+      "registry_type": "pypi",
+      "identifier": "labs-mcp-server",
+      "declared_version": "0.1.1",
+      "transport": "stdio",
+      "state": {
+        "status": "not_found",
+        "latest": null,
+        "latest_yanked": null,
+        "project_status": null,
+        "not_found_kind": "no_project",
+        "not_found_confirmed": true
+      },
+      "first_checked_on": "2026-10-23",
+      "events": []
+    }
+  ],
+  "limits": [
+    "Package code was not installed or run.",
+    "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
+    "Deprecated, yanked and project status are flags set on npm or PyPI by the package owner or index. They are not a judgment by Lowdown.",
+    "HTTP 404 facts are listed only after a later check also returned 404.",
+    "\"First recorded\" is the date Lowdown first saw a state, not the date the state began."
+  ],
+  "source": {
+    "name": "Lowdown",
+    "dataset": "https://github.com/PetShopBros/lowdown-data",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Lowdown (https://github.com/PetShopBros/lowdown-data), CC BY 4.0"
+  }
+}

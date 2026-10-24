@@ -1,0 +1,56 @@
+{
+  "schema": "lowdown-server-page/1",
+  "name": "eu.ansvar/switzerland-law-mcp",
+  "page_url": "https://petshopbros.github.io/lowdown-pages/servers/eu.ansvar/switzerland-law-mcp.html",
+  "json_url": "https://petshopbros.github.io/lowdown-pages/servers/eu.ansvar/switzerland-law-mcp.json",
+  "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:eu.ansvar/switzerland-law-mcp",
+  "facts": [
+    {
+      "code": "declared_package_not_found",
+      "registry_type": "npm",
+      "identifier": "@ansvar/switzerland-law-mcp",
+      "since": {
+        "on": "2026-10-22",
+        "basis": "first_check"
+      }
+    }
+  ],
+  "registry": {
+    "status": "deprecated",
+    "version": "1.1.0",
+    "first_seen_on": "2026-10-19",
+    "baseline": true,
+    "removed_on": null,
+    "changes": []
+  },
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "@ansvar/switzerland-law-mcp",
+      "declared_version": "1.1.0",
+      "transport": "stdio",
+      "state": {
+        "status": "not_found",
+        "latest": null,
+        "deprecated": null,
+        "not_found_confirmed": true
+      },
+      "first_checked_on": "2026-10-22",
+      "events": []
+    }
+  ],
+  "limits": [
+    "Package code was not installed or run.",
+    "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
+    "Deprecated, yanked and project status are flags set on npm or PyPI by the package owner or index. They are not a judgment by Lowdown.",
+    "HTTP 404 facts are listed only after a later check also returned 404.",
+    "\"First recorded\" is the date Lowdown first saw a state, not the date the state began."
+  ],
+  "source": {
+    "name": "Lowdown",
+    "dataset": "https://github.com/PetShopBros/lowdown-data",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Lowdown (https://github.com/PetShopBros/lowdown-data), CC BY 4.0"
+  }
+}
