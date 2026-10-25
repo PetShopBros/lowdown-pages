@@ -17,7 +17,7 @@
     }
   ],
   "registry": {
-    "status": "active",
+    "status": "deprecated",
     "version": "4.2.7",
     "first_seen_on": "2026-10-19",
     "baseline": true,
@@ -34,6 +34,12 @@
         "kind": "version",
         "old_value": "4.0.1",
         "new_value": "4.2.7"
+      },
+      {
+        "detected_on": "2026-10-25",
+        "kind": "status",
+        "old_value": "active",
+        "new_value": "deprecated"
       }
     ]
   },

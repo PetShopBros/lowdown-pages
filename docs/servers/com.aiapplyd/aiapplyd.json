@@ -17,12 +17,19 @@
     }
   ],
   "registry": {
-    "status": "active",
+    "status": "deprecated",
     "version": "1.9.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-10-25",
+        "kind": "status",
+        "old_value": "active",
+        "new_value": "deprecated"
+      }
+    ]
   },
   "packages": [
     {
