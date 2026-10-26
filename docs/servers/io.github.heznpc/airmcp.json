@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.heznpc/airmcp.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.heznpc/airmcp.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.heznpc/airmcp",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "airmcp",
-      "version": "2.16.6",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "deprecated",
     "version": "2.16.6",
@@ -51,12 +40,25 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "2.16.6",
-        "deprecated": true,
+        "latest": "2.16.7",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-10-26",
+          "kind": "latest_changed",
+          "old_value": "2.16.6",
+          "new_value": "2.16.7"
+        },
+        {
+          "detected_on": "2026-10-26",
+          "kind": "undeprecated",
+          "old_value": "2.16.7",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [

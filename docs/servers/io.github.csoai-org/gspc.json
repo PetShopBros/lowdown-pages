@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.csoai-org/gspc.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.csoai-org/gspc.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.CSOAI-ORG/gspc",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "csoai-gspc-mcp",
-      "version": "0.2.2",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "1.4.4",
@@ -32,12 +21,25 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.2.2",
-        "deprecated": true,
+        "latest": "0.2.3",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-10-26",
+          "kind": "latest_changed",
+          "old_value": "0.2.2",
+          "new_value": "0.2.3"
+        },
+        {
+          "detected_on": "2026-10-26",
+          "kind": "undeprecated",
+          "old_value": "0.2.3",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [
