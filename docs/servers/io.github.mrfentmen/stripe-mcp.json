@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.mrfentmen/stripe-mcp",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "@mrfentmen/stripe-mcp",
-      "version": "1.1.0",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "1.1.0",
@@ -32,12 +21,25 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "1.1.0",
-        "deprecated": true,
+        "latest": "1.1.2",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-10-27",
+          "kind": "latest_changed",
+          "old_value": "1.1.0",
+          "new_value": "1.1.2"
+        },
+        {
+          "detected_on": "2026-10-27",
+          "kind": "undeprecated",
+          "old_value": "1.1.2",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [

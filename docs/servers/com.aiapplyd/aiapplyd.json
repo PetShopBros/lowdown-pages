@@ -9,7 +9,7 @@
       "code": "declared_package_deprecated",
       "registry_type": "npm",
       "identifier": "aiapplyd-mcp",
-      "version": "1.9.0",
+      "version": "1.10.2",
       "since": {
         "on": "2026-10-24",
         "basis": "change"
@@ -39,7 +39,7 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "1.9.0",
+        "latest": "1.10.2",
         "deprecated": true,
         "not_found_confirmed": false
       },
@@ -50,6 +50,12 @@
           "kind": "deprecated",
           "old_value": "1.9.0",
           "new_value": null
+        },
+        {
+          "detected_on": "2026-10-27",
+          "kind": "latest_changed",
+          "old_value": "1.9.0",
+          "new_value": "1.10.2"
         }
       ]
     }

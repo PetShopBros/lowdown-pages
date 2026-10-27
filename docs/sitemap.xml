@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://petshopbros.github.io/lowdown-pages/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/ai.aimentiontracker/mcp.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/ai.bolthub/registry.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/ai.clize/domains.html</loc><lastmod>2026-10-22</lastmod></url>
@@ -11,7 +11,7 @@
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/ai.sentvia/mcp.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/app.llmaudit/llmaudit.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/co.truncus/mcp-server.html</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://petshopbros.github.io/lowdown-pages/servers/com.aiapplyd/aiapplyd.html</loc><lastmod>2026-10-25</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/com.aiapplyd/aiapplyd.html</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/com.aicandidatehub/mcp.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/com.boostedchat/travel.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/com.contenta-software/contenta-converter.html</loc><lastmod>2026-10-25</lastmod></url>
@@ -165,7 +165,8 @@
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.ayo-nci/bulkrender.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.barangaroo/crosstabs-mcp.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.bashbop/otito.html</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.benswel/qr-for-agent.html</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.benswel/qr-for-agent.html</loc><lastmod>2026-10-27</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.beremaran/godot-agent-loop.html</loc><lastmod>2026-10-26</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.bgorzelic/ghostlink.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.birthday-tools/edgarmcp.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.blackhatshiftey/seam-runtime.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -285,7 +286,7 @@
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.heznpc/iconnect.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.hlix-ai/hlix.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.holetron/hindsight-mempalace.html</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.hoya25/nctr-mcp-server.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.hoya25/nctr-mcp-server.html</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.iamjamb/shipscreens.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.igorganapolsky/mcp-memory-gateway.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.igorganapolsky/rlhf-feedback-loop.html</loc><lastmod>2026-10-22</lastmod></url>
@@ -499,12 +500,13 @@
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.meltingpixelsai/harvey-tools.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.meltingpixelsai/harvey-verify.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.metadrama/obscura-mcp.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mfbahc/colter.html</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.michu5696/agora402.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mindcase-co/mindcase.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mission69b/t2000.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mountainmystic/hedera-mcp-platform.html</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/statuspage-mcp.html</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/statuspage-mcp.html</loc><lastmod>2026-10-27</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.html</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.msgwing/zerosmtp.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.neverinfamous/sqlite-mcp-server.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.nickzitzer/servicenow-nodejs.html</loc><lastmod>2026-10-22</lastmod></url>
@@ -523,6 +525,7 @@
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.pairbook-io/pairbook-mcp.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.paraloncloud/mcp-rentals.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.pasichdev/todo-mcp.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.patwalls/superhighway-mcp.html</loc><lastmod>2026-10-27</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.pavelpiha/specrun.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.payclaw/badge.html</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://petshopbros.github.io/lowdown-pages/servers/io.github.payclaw/payclaw.html</loc><lastmod>2026-10-22</lastmod></url>
