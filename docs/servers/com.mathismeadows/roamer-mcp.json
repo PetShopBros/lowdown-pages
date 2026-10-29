@@ -4,49 +4,29 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/com.mathismeadows/roamer-mcp.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/com.mathismeadows/roamer-mcp.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:com.mathismeadows/roamer-mcp",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "@mathismeadows/roamer-device-auth",
-      "version": "1.5.11",
-      "since": {
-        "on": "2026-10-28",
-        "basis": "change"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
-  },
-  "packages": [
-    {
-      "registry_type": "npm",
-      "identifier": "@mathismeadows/roamer-device-auth",
-      "declared_version": "1.5.11",
-      "transport": "stdio",
-      "state": {
-        "status": "found",
-        "latest": "1.5.11",
-        "deprecated": true,
-        "not_found_confirmed": false
+    "changes": [
+      {
+        "detected_on": "2026-10-29",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
       },
-      "first_checked_on": "2026-10-22",
-      "events": [
-        {
-          "detected_on": "2026-10-28",
-          "kind": "deprecated",
-          "old_value": "1.5.11",
-          "new_value": null
-        }
-      ]
-    }
-  ],
+      {
+        "detected_on": "2026-10-29",
+        "kind": "version",
+        "old_value": "2.0.0",
+        "new_value": "2.0.1"
+      }
+    ]
+  },
+  "packages": [],
   "limits": [
     "Package code was not installed or run.",
     "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
