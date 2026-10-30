@@ -4,7 +4,17 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/studio.kynth/core.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/studio.kynth/core.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:studio.kynth/core",
-  "facts": [],
+  "facts": [
+    {
+      "code": "declared_package_not_found",
+      "registry_type": "npm",
+      "identifier": "@kynth/api-mcp",
+      "since": {
+        "on": "2026-10-29",
+        "basis": "change"
+      }
+    }
+  ],
   "registry": {
     "status": "deprecated",
     "version": "0.5.2",
@@ -23,7 +33,7 @@
         "status": "not_found",
         "latest": null,
         "deprecated": null,
-        "not_found_confirmed": false
+        "not_found_confirmed": true
       },
       "first_checked_on": "2026-10-22",
       "events": [
