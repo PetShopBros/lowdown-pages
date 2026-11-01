@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.weiyongxu/mne-docs.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.weiyongxu/mne-docs.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.weiyongxu/mne-docs",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "mne-docs-mcp",
-      "version": "1.0.50",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "1.0.49",
@@ -32,8 +21,8 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "1.0.50",
-        "deprecated": true,
+        "latest": null,
+        "deprecated": null,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",

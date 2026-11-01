@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.pedroknigge/ark.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.pedroknigge/ark.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.pedroknigge/ark",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "ark-runtime-kernel",
-      "version": "2.0.1",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "deprecated",
     "version": "2.0.1",
@@ -32,8 +21,8 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "2.0.1",
-        "deprecated": true,
+        "latest": null,
+        "deprecated": null,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",

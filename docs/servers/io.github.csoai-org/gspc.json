@@ -6,12 +6,19 @@
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.CSOAI-ORG/gspc",
   "facts": [],
   "registry": {
-    "status": "active",
+    "status": "deprecated",
     "version": "1.4.4",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-11-01",
+        "kind": "status",
+        "old_value": "active",
+        "new_value": "deprecated"
+      }
+    ]
   },
   "packages": [
     {
@@ -21,7 +28,7 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.2.4",
+        "latest": "0.2.5",
         "deprecated": false,
         "not_found_confirmed": false
       },
@@ -44,6 +51,12 @@
           "kind": "latest_changed",
           "old_value": "0.2.3",
           "new_value": "0.2.4"
+        },
+        {
+          "detected_on": "2026-11-01",
+          "kind": "latest_changed",
+          "old_value": "0.2.4",
+          "new_value": "0.2.5"
         }
       ]
     }

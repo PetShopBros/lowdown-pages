@@ -6,6 +6,16 @@
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.writerslogic/holographic-memory-mcp",
   "facts": [
     {
+      "code": "declared_package_not_found",
+      "registry_type": "pypi",
+      "identifier": "holographic-memory-mcp",
+      "not_found_kind": "no_project",
+      "since": {
+        "on": "2026-10-31",
+        "basis": "change"
+      }
+    },
+    {
       "code": "declared_package_deprecated",
       "registry_type": "npm",
       "identifier": "holographic-memory-mcp",
@@ -64,7 +74,7 @@
         "latest_yanked": null,
         "project_status": null,
         "not_found_kind": "no_project",
-        "not_found_confirmed": false
+        "not_found_confirmed": true
       },
       "first_checked_on": "2026-10-26",
       "events": [
