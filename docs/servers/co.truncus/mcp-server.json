@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/co.truncus/mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/co.truncus/mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:co.truncus/mcp-server",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "@truncus/mcp-server",
-      "version": "0.1.3",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "0.1.1",
@@ -32,12 +21,25 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.1.3",
-        "deprecated": true,
+        "latest": "0.2.1",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-11-02",
+          "kind": "latest_changed",
+          "old_value": "0.1.3",
+          "new_value": "0.2.1"
+        },
+        {
+          "detected_on": "2026-11-02",
+          "kind": "undeprecated",
+          "old_value": "0.2.1",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [

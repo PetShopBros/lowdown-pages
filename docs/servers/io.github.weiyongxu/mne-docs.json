@@ -10,8 +10,15 @@
     "version": "1.0.49",
     "first_seen_on": "2026-10-19",
     "baseline": true,
-    "removed_on": null,
-    "changes": []
+    "removed_on": "2026-11-02",
+    "changes": [
+      {
+        "detected_on": "2026-11-02",
+        "kind": "removed",
+        "old_value": null,
+        "new_value": null
+      }
+    ]
   },
   "packages": [
     {

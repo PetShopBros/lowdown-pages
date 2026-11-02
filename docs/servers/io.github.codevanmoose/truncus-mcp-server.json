@@ -4,21 +4,10 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.codevanmoose/truncus-mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.codevanmoose/truncus-mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.codevanmoose/truncus-mcp-server",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "@truncus/mcp-server",
-      "version": "0.1.3",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
-    "status": "deprecated",
-    "version": "0.1.3",
+    "status": "active",
+    "version": "0.2.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -28,6 +17,30 @@
         "kind": "status",
         "old_value": "active",
         "new_value": "deprecated"
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "status",
+        "old_value": "deprecated",
+        "new_value": "active"
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "version",
+        "old_value": "0.1.3",
+        "new_value": "0.2.0"
       }
     ]
   },
@@ -35,16 +48,29 @@
     {
       "registry_type": "npm",
       "identifier": "@truncus/mcp-server",
-      "declared_version": "0.1.3",
+      "declared_version": "0.2.0",
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.1.3",
-        "deprecated": true,
+        "latest": "0.2.1",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-11-02",
+          "kind": "latest_changed",
+          "old_value": "0.1.3",
+          "new_value": "0.2.1"
+        },
+        {
+          "detected_on": "2026-11-02",
+          "kind": "undeprecated",
+          "old_value": "0.2.1",
+          "new_value": null
+        }
+      ]
     }
   ],
   "limits": [
