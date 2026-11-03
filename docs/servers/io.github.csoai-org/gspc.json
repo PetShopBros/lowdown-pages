@@ -28,7 +28,7 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.2.5",
+        "latest": "0.2.6",
         "deprecated": false,
         "not_found_confirmed": false
       },
@@ -57,6 +57,12 @@
           "kind": "latest_changed",
           "old_value": "0.2.4",
           "new_value": "0.2.5"
+        },
+        {
+          "detected_on": "2026-11-03",
+          "kind": "latest_changed",
+          "old_value": "0.2.5",
+          "new_value": "0.2.6"
         }
       ]
     }
