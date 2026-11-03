@@ -6,18 +6,43 @@
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.khalidsaidi/ragmap",
   "facts": [],
   "registry": {
-    "status": "deprecated",
-    "version": "1.0.2",
+    "status": "active",
+    "version": "2.0.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-11-03",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-03",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-03",
+        "kind": "status",
+        "old_value": "deprecated",
+        "new_value": "active"
+      },
+      {
+        "detected_on": "2026-11-03",
+        "kind": "version",
+        "old_value": "1.0.2",
+        "new_value": "2.0.0"
+      }
+    ]
   },
   "packages": [
     {
       "registry_type": "npm",
       "identifier": "@khalidsaidi/ragmap-mcp",
-      "declared_version": "1.0.1",
+      "declared_version": "2.0.0",
       "transport": "stdio",
       "state": {
         "status": "found",
