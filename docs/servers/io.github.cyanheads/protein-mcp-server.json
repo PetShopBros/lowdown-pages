@@ -4,39 +4,53 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cyanheads/protein-mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cyanheads/protein-mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.cyanheads/protein-mcp-server",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "protein-mcp-server",
-      "version": "1.0.3",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
-    "version": "1.0.3",
+    "version": "0.9.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-11-05",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-05",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-05",
+        "kind": "remotes",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-05",
+        "kind": "version",
+        "old_value": "1.0.3",
+        "new_value": "0.9.0"
+      }
+    ]
   },
   "packages": [
     {
       "registry_type": "npm",
-      "identifier": "protein-mcp-server",
-      "declared_version": "1.0.3",
+      "identifier": "@cyanheads/protein-mcp-server",
+      "declared_version": "0.9.0",
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "1.0.3",
-        "deprecated": true,
+        "latest": "0.9.0",
+        "deprecated": false,
         "not_found_confirmed": false
       },
-      "first_checked_on": "2026-10-22",
+      "first_checked_on": "2026-11-05",
       "events": []
     }
   ],
