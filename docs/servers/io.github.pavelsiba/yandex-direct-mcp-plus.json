@@ -18,7 +18,7 @@
   ],
   "registry": {
     "status": "active",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -46,6 +46,18 @@
         "kind": "version",
         "old_value": "2.0.1",
         "new_value": "2.1.0"
+      },
+      {
+        "detected_on": "2026-11-07",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-07",
+        "kind": "version",
+        "old_value": "2.1.0",
+        "new_value": "3.0.0"
       }
     ]
   },
@@ -53,7 +65,7 @@
     {
       "registry_type": "npm",
       "identifier": "yandex-direct-mcp-plus",
-      "declared_version": "2.1.0",
+      "declared_version": "3.0.0",
       "transport": "stdio",
       "state": {
         "status": "found",

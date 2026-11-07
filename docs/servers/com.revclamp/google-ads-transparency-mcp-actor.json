@@ -18,7 +18,7 @@
   ],
   "registry": {
     "status": "active",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "first_seen_on": "2026-11-06",
     "baseline": false,
     "removed_on": null,
@@ -28,6 +28,18 @@
         "kind": "new",
         "old_value": null,
         "new_value": null
+      },
+      {
+        "detected_on": "2026-11-07",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-07",
+        "kind": "version",
+        "old_value": "1.0.6",
+        "new_value": "1.0.7"
       }
     ]
   },
@@ -35,7 +47,7 @@
     {
       "registry_type": "npm",
       "identifier": "@revclamp/google-ads-transparency-mcp-actor",
-      "declared_version": "1.0.6",
+      "declared_version": "1.0.7",
       "transport": "stdio",
       "state": {
         "status": "found",
