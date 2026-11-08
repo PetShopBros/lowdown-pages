@@ -21,7 +21,7 @@
     "version": "0.2.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
-    "removed_on": null,
+    "removed_on": "2026-11-08",
     "changes": [
       {
         "detected_on": "2026-10-30",
@@ -40,6 +40,12 @@
         "kind": "version",
         "old_value": "0.1.2",
         "new_value": "0.2.0"
+      },
+      {
+        "detected_on": "2026-11-08",
+        "kind": "removed",
+        "old_value": null,
+        "new_value": null
       }
     ]
   },
