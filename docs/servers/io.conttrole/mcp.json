@@ -82,12 +82,19 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "1.9.1",
+        "latest": "1.13.0",
         "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-11-06",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-11-09",
+          "kind": "latest_changed",
+          "old_value": "1.9.1",
+          "new_value": "1.13.0"
+        }
+      ]
     }
   ],
   "limits": [

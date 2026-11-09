@@ -9,7 +9,7 @@
       "code": "declared_package_deprecated",
       "registry_type": "npm",
       "identifier": "qr-for-agent",
-      "version": "0.12.2",
+      "version": "0.13.0",
       "since": {
         "on": "2026-10-26",
         "basis": "change"
@@ -39,7 +39,7 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.12.2",
+        "latest": "0.13.0",
         "deprecated": true,
         "not_found_confirmed": false
       },
@@ -50,6 +50,12 @@
           "kind": "deprecated",
           "old_value": "0.12.2",
           "new_value": null
+        },
+        {
+          "detected_on": "2026-11-09",
+          "kind": "latest_changed",
+          "old_value": "0.12.2",
+          "new_value": "0.13.0"
         }
       ]
     }
