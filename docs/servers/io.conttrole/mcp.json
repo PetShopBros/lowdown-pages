@@ -7,7 +7,7 @@
   "facts": [],
   "registry": {
     "status": "active",
-    "version": "1.9.1",
+    "version": "1.13.0",
     "first_seen_on": "2026-10-30",
     "baseline": false,
     "removed_on": null,
@@ -71,6 +71,18 @@
         "kind": "version",
         "old_value": "1.7.0",
         "new_value": "1.9.1"
+      },
+      {
+        "detected_on": "2026-11-10",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-10",
+        "kind": "version",
+        "old_value": "1.9.1",
+        "new_value": "1.13.0"
       }
     ]
   },
@@ -78,7 +90,7 @@
     {
       "registry_type": "npm",
       "identifier": "@conflaro/mcp",
-      "declared_version": "1.9.1",
+      "declared_version": "1.13.0",
       "transport": "stdio",
       "state": {
         "status": "found",

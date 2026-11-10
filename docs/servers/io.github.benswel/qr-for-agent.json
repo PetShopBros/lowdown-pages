@@ -18,7 +18,7 @@
   ],
   "registry": {
     "status": "deprecated",
-    "version": "0.12.2",
+    "version": "0.13.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -28,6 +28,24 @@
         "kind": "status",
         "old_value": "active",
         "new_value": "deprecated"
+      },
+      {
+        "detected_on": "2026-11-10",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-10",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-10",
+        "kind": "version",
+        "old_value": "0.12.2",
+        "new_value": "0.13.0"
       }
     ]
   },
@@ -35,7 +53,7 @@
     {
       "registry_type": "npm",
       "identifier": "qr-for-agent",
-      "declared_version": "0.12.2",
+      "declared_version": "0.13.0",
       "transport": "stdio",
       "state": {
         "status": "found",
