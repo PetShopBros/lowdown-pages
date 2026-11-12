@@ -4,7 +4,17 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.hei33enberg/marocain-mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.hei33enberg/marocain-mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.Hei33enberg/marocain-mcp-server",
-  "facts": [],
+  "facts": [
+    {
+      "code": "declared_package_not_found",
+      "registry_type": "npm",
+      "identifier": "@marocain/mcp-server",
+      "since": {
+        "on": "2026-11-11",
+        "basis": "change"
+      }
+    }
+  ],
   "registry": {
     "status": "active",
     "version": "0.1.9",
@@ -23,7 +33,7 @@
         "status": "not_found",
         "latest": null,
         "deprecated": null,
-        "not_found_confirmed": false
+        "not_found_confirmed": true
       },
       "first_checked_on": "2026-10-22",
       "events": [
