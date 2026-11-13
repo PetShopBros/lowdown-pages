@@ -18,7 +18,7 @@
   ],
   "registry": {
     "status": "active",
-    "version": "1.0.0-beta.4",
+    "version": "1.0.0-beta.5",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -58,6 +58,18 @@
         "kind": "version",
         "old_value": "1.0.0-beta.2",
         "new_value": "1.0.0-beta.4"
+      },
+      {
+        "detected_on": "2026-11-13",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-13",
+        "kind": "version",
+        "old_value": "1.0.0-beta.4",
+        "new_value": "1.0.0-beta.5"
       }
     ]
   },
@@ -65,7 +77,7 @@
     {
       "registry_type": "npm",
       "identifier": "tillbooks",
-      "declared_version": "1.0.0-beta.4",
+      "declared_version": "1.0.0-beta.5",
       "transport": "stdio",
       "state": {
         "status": "found",
