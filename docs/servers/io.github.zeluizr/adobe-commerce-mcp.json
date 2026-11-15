@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.zeluizr/adobe-commerce-mcp.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.zeluizr/adobe-commerce-mcp.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.zeluizr/adobe-commerce-mcp",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "adobe-commerce-mcp",
-      "version": "0.1.0",
-      "since": {
-        "on": "2026-10-30",
-        "basis": "change"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "0.1.0",
@@ -39,8 +28,8 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.1.0",
-        "deprecated": true,
+        "latest": null,
+        "deprecated": null,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-26",

@@ -7,7 +7,7 @@
   "facts": [],
   "registry": {
     "status": "active",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -35,6 +35,18 @@
         "kind": "version",
         "old_value": "1.0.3",
         "new_value": "0.9.0"
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "version",
+        "old_value": "0.9.0",
+        "new_value": "0.9.1"
       }
     ]
   },
@@ -42,16 +54,23 @@
     {
       "registry_type": "npm",
       "identifier": "@cyanheads/protein-mcp-server",
-      "declared_version": "0.9.0",
+      "declared_version": "0.9.1",
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.9.0",
+        "latest": "0.9.1",
         "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-11-05",
-      "events": []
+      "events": [
+        {
+          "detected_on": "2026-11-15",
+          "kind": "latest_changed",
+          "old_value": "0.9.0",
+          "new_value": "0.9.1"
+        }
+      ]
     }
   ],
   "limits": [
