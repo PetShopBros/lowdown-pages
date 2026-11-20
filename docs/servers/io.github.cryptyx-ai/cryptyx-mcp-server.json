@@ -7,21 +7,46 @@
   "facts": [],
   "registry": {
     "status": "active",
-    "version": "0.8.0",
+    "version": "0.12.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-11-20",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "remotes",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "version",
+        "old_value": "0.8.0",
+        "new_value": "0.12.0"
+      }
+    ]
   },
   "packages": [
     {
       "registry_type": "npm",
       "identifier": "@cryptyx/mcp-server",
-      "declared_version": "0.8.0",
+      "declared_version": "0.12.0",
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.11.1",
+        "latest": "0.12.1",
         "deprecated": false,
         "not_found_confirmed": false
       },
@@ -44,6 +69,12 @@
           "kind": "undeprecated",
           "old_value": "0.11.1",
           "new_value": null
+        },
+        {
+          "detected_on": "2026-11-20",
+          "kind": "latest_changed",
+          "old_value": "0.11.1",
+          "new_value": "0.12.1"
         }
       ]
     }

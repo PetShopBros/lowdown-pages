@@ -4,39 +4,53 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.abhishek-b-r/social0-mcp.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.abhishek-b-r/social0-mcp.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.Abhishek-B-R/social0-mcp",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "social0-mcp",
-      "version": "0.5.0",
-      "since": {
-        "on": "2026-10-22",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
-    "version": "0.2.1",
+    "version": "0.5.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
+    "changes": [
+      {
+        "detected_on": "2026-11-20",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "remotes",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "version",
+        "old_value": "0.2.1",
+        "new_value": "0.5.0"
+      }
+    ]
   },
   "packages": [
     {
       "registry_type": "npm",
-      "identifier": "social0-mcp",
-      "declared_version": "0.2.1",
+      "identifier": "@social0/mcp",
+      "declared_version": "0.5.0",
       "transport": "stdio",
       "state": {
         "status": "found",
         "latest": "0.5.0",
-        "deprecated": true,
+        "deprecated": false,
         "not_found_confirmed": false
       },
-      "first_checked_on": "2026-10-22",
+      "first_checked_on": "2026-11-20",
       "events": []
     }
   ],

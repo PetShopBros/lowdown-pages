@@ -1,8 +1,8 @@
 {
   "schema": "lowdown-server-index/1",
-  "data_as_of": "2026-11-19T20:37:22.645+00:00",
-  "count": 707,
-  "with_facts": 687,
+  "data_as_of": "2026-11-20T20:37:09.637+00:00",
+  "count": 710,
+  "with_facts": 689,
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "servers": [
@@ -13,7 +13,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.bolthub/registry",
@@ -22,7 +22,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.clize/domains",
@@ -31,7 +31,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.clize/inbox",
@@ -40,7 +40,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.clize/sites",
@@ -49,7 +49,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.clize/storefront",
@@ -58,7 +58,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.formachines/errata",
@@ -67,7 +67,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.rapay/mcp-server",
@@ -76,7 +76,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "ai.sentvia/mcp",
@@ -94,7 +94,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "au.com.preventionlabs/preventionlabs",
@@ -103,14 +103,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "co.truncus/mcp-server",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/co.truncus/mcp-server.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/co.truncus/mcp-server.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.aiapplyd/aiapplyd",
@@ -128,7 +128,16 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
+    },
+    {
+      "name": "com.ascent-partners/opencode-workbench",
+      "page": "https://petshopbros.github.io/lowdown-pages/servers/com.ascent-partners/opencode-workbench.html",
+      "json": "https://petshopbros.github.io/lowdown-pages/servers/com.ascent-partners/opencode-workbench.json",
+      "facts": [
+        "declared_package_deprecated"
+      ],
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.boostedchat/travel",
@@ -146,7 +155,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.correctover/mcp-server",
@@ -155,7 +164,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.firsthandapi/mcp-server",
@@ -164,7 +173,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.flatlandfi/flatland",
@@ -173,7 +182,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.getquario/mcp",
@@ -182,7 +191,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.glitchexecutor.grow/glitch-grow-linkedin-ad-mcp",
@@ -191,7 +200,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.guffeyholdings/token-oracle",
@@ -209,7 +218,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.linebreakapp/linebreak-gate",
@@ -218,7 +227,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.mathismeadows/roamer-mcp",
@@ -234,7 +243,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.ouicu/mcp",
@@ -252,7 +261,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.revclamp/google-ads-transparency-mcp-actor",
@@ -261,7 +270,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.star-meet/mcp-starmeet",
@@ -270,7 +279,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "com.unifiedoffer/mcp-server",
@@ -279,7 +288,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "dev.whiteintel/whiteintel",
@@ -288,7 +297,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/argentine-law-mcp",
@@ -297,7 +306,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/australian-law-mcp",
@@ -306,7 +315,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/austrian-law-mcp",
@@ -315,7 +324,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/bahraini-law-mcp",
@@ -324,7 +333,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/bangladeshi-law-mcp",
@@ -333,7 +342,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/belgian-law-mcp",
@@ -342,7 +351,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/botswana-law-mcp",
@@ -351,7 +360,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/brazil-law-mcp",
@@ -360,7 +369,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/bulgarian-law-mcp",
@@ -369,7 +378,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/cambodian-law-mcp",
@@ -378,7 +387,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/cameroonian-law-mcp",
@@ -387,7 +396,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/canadian-law-mcp",
@@ -396,7 +405,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/chilean-law-mcp",
@@ -405,7 +414,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/colombian-law-mcp",
@@ -414,7 +423,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/costa-rican-law-mcp",
@@ -423,7 +432,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/croatian-law-mcp",
@@ -432,7 +441,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/cypriot-law-mcp",
@@ -441,7 +450,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/czech-law-mcp",
@@ -450,7 +459,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/danish-law-mcp",
@@ -459,7 +468,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/dominican-law-mcp",
@@ -468,7 +477,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/dutch-law-mcp",
@@ -477,7 +486,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ecuadorian-law-mcp",
@@ -486,7 +495,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/egyptian-law-mcp",
@@ -495,7 +504,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/estonian-law-mcp",
@@ -504,7 +513,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ethiopian-law-mcp",
@@ -513,7 +522,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/finnish-law-mcp",
@@ -522,7 +531,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/french-law-mcp",
@@ -531,7 +540,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/georgian-law-mcp",
@@ -540,7 +549,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/german-law-mcp",
@@ -549,7 +558,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ghana-law-mcp",
@@ -558,7 +567,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/greek-law-mcp",
@@ -567,7 +576,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/hungarian-law-mcp",
@@ -576,7 +585,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/icelandic-law-mcp",
@@ -585,7 +594,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/india-law-mcp",
@@ -594,7 +603,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/indonesian-law-mcp",
@@ -603,7 +612,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/irish-law-mcp",
@@ -612,7 +621,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/israel-law-mcp",
@@ -621,7 +630,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/italian-law-mcp",
@@ -630,7 +639,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ivorian-law-mcp",
@@ -639,7 +648,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/jamaican-law-mcp",
@@ -648,7 +657,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/japan-law-mcp",
@@ -657,7 +666,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/jordanian-law-mcp",
@@ -666,7 +675,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/kenya-law-mcp",
@@ -675,7 +684,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/latvian-law-mcp",
@@ -684,7 +693,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/liechtenstein-law-mcp",
@@ -693,7 +702,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/lithuanian-law-mcp",
@@ -702,7 +711,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/luxembourg-law-mcp",
@@ -711,7 +720,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/malawi-law-mcp",
@@ -720,7 +729,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/malaysian-law-mcp",
@@ -729,7 +738,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/maltese-law-mcp",
@@ -738,7 +747,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/mexican-law-mcp",
@@ -747,7 +756,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/moroccan-law-mcp",
@@ -756,7 +765,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/mozambican-law-mcp",
@@ -765,7 +774,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/namibian-law-mcp",
@@ -774,7 +783,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/nepal-law-mcp",
@@ -783,7 +792,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/newzealand-law-mcp",
@@ -792,7 +801,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/nigeria-law-mcp",
@@ -801,7 +810,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/norwegian-law-mcp",
@@ -810,7 +819,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/pakistani-law-mcp",
@@ -819,7 +828,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/paraguayan-law-mcp",
@@ -828,7 +837,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/peruvian-law-mcp",
@@ -837,7 +846,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/philippine-law-mcp",
@@ -846,7 +855,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/polish-law-mcp",
@@ -855,7 +864,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/portuguese-law-mcp",
@@ -864,7 +873,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/qatari-law-mcp",
@@ -873,7 +882,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/romanian-law-mcp",
@@ -882,7 +891,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/russian-law-mcp",
@@ -891,7 +900,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/rwandan-law-mcp",
@@ -900,7 +909,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/saudi-law-mcp",
@@ -909,7 +918,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/senegalese-law-mcp",
@@ -918,7 +927,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/serbian-law-mcp",
@@ -927,7 +936,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/singapore-law-mcp",
@@ -936,7 +945,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/slovak-law-mcp",
@@ -945,7 +954,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/slovenian-law-mcp",
@@ -954,7 +963,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/south-korea-law-mcp",
@@ -963,7 +972,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/southafrica-law-mcp",
@@ -972,7 +981,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/spanish-law-mcp",
@@ -981,7 +990,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/srilanka-law-mcp",
@@ -990,7 +999,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/swedish-law-mcp",
@@ -999,7 +1008,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/switzerland-law-mcp",
@@ -1008,7 +1017,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/taiwanese-law-mcp",
@@ -1017,7 +1026,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/tanzanian-law-mcp",
@@ -1026,7 +1035,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/thailand-law-mcp",
@@ -1035,7 +1044,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/tunisian-law-mcp",
@@ -1044,7 +1053,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/turkish-law-mcp",
@@ -1053,7 +1062,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/uae-law-mcp",
@@ -1062,7 +1071,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ugandan-law-mcp",
@@ -1071,7 +1080,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/uk-law-mcp",
@@ -1080,7 +1089,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/ukrainian-law-mcp",
@@ -1089,7 +1098,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/uruguayan-law-mcp",
@@ -1098,7 +1107,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/us-law-mcp",
@@ -1107,7 +1116,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/us-regulations-mcp",
@@ -1116,7 +1125,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/vietnamese-law-mcp",
@@ -1125,7 +1134,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/zambian-law-mcp",
@@ -1134,7 +1143,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "eu.ansvar/zimbabwe-law-mcp",
@@ -1143,14 +1152,14 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "fm.lightning/lightning-fm-mcp",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/fm.lightning/lightning-fm-mcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/fm.lightning/lightning-fm-mcp.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.arxo/charter",
@@ -1159,7 +1168,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.arxo/code-civil",
@@ -1168,7 +1177,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.arxo/de-bgb",
@@ -1177,7 +1186,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.arxo/picc",
@@ -1186,14 +1195,14 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.conttrole/mcp",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.conttrole/mcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.conttrole/mcp.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.0xthaner/reputa",
@@ -1211,7 +1220,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.6mickswagger9/mytollbooth-calendar-mcp",
@@ -1220,7 +1229,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AION-Analytics/aion-news-to-signal",
@@ -1229,7 +1238,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-cal",
@@ -1238,7 +1247,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-clawhub",
@@ -1247,7 +1256,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-imap",
@@ -1256,7 +1265,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-shopify",
@@ -1265,7 +1274,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-vault",
@@ -1274,7 +1283,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-wheel-size",
@@ -1283,7 +1292,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AIWerk/mcp-server-wise",
@@ -1292,16 +1301,14 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Abhishek-B-R/social0-mcp",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.abhishek-b-r/social0-mcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.abhishek-b-r/social0-mcp.json",
-      "facts": [
-        "declared_package_deprecated"
-      ],
-      "last_checked_on": "2026-11-13"
+      "facts": [],
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Able-rip/agent-mosaic-skill",
@@ -1310,7 +1317,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Abstract36/stakechain",
@@ -1328,7 +1335,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Aimino-Tech/fast-html-mcp",
@@ -1337,7 +1344,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Alexendros/proton-mail-mcp",
@@ -1346,7 +1353,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AlligatorC0der/conkurrence",
@@ -1355,7 +1362,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.AllocContext/alloc-context",
@@ -1364,7 +1371,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Ansvar-Systems/automotive-cybersecurity",
@@ -1373,7 +1380,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Ansvar-Systems/eu-regulations-mcp",
@@ -1382,7 +1389,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Ansvar-Systems/ot-security-mcp",
@@ -1391,7 +1398,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Ansvar-Systems/us-regulations-mcp",
@@ -1400,7 +1407,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Applied-Form/engine",
@@ -1409,7 +1416,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.BASHBOP/otito",
@@ -1418,7 +1425,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.BlackhatShiftey/seam-runtime",
@@ -1427,7 +1434,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-admin-divisions",
@@ -1436,7 +1443,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-bank-resolve",
@@ -1445,7 +1452,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-electricity",
@@ -1454,7 +1461,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-fx-rates",
@@ -1463,7 +1470,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-grid3-boundaries",
@@ -1472,7 +1479,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-health-facility",
@@ -1481,7 +1488,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-imf-weo",
@@ -1490,7 +1497,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-nigsac-sanctions",
@@ -1499,7 +1506,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-quidax-crypto",
@@ -1508,7 +1515,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-trade-intel",
@@ -1517,7 +1524,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-un-sdg",
@@ -1526,7 +1533,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Braynexservices/nigeria-worldbank-macro",
@@ -1535,7 +1542,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.BrowseAI-HQ/browseai-dev",
@@ -1544,14 +1551,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.CSOAI-ORG/gspc",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.csoai-org/gspc.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.csoai-org/gspc.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.CSOAI-ORG/meok-ai-reflection-mcp",
@@ -1560,7 +1567,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Chill-AI-Space/vault",
@@ -1569,7 +1576,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
@@ -1578,7 +1585,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Company-Gibraltar/company-gi",
@@ -1587,7 +1594,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ConanMcN/fragments-mcp",
@@ -1596,7 +1603,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Cope-Labs/selvo",
@@ -1605,7 +1612,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Correctover/correctover-mcp-server",
@@ -1614,7 +1621,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Correctover/mcp",
@@ -1623,7 +1630,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Credda-io/credda-trust",
@@ -1632,7 +1639,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Efistoffeles/boostedtravel",
@@ -1650,7 +1657,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Enu27/japan-used-camera-market",
@@ -1659,7 +1666,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.EquateItAu/classquill-mcp",
@@ -1668,7 +1675,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Forge-Space/branding-mcp",
@@ -1677,7 +1684,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Forge-Space/ui-mcp",
@@ -1686,7 +1693,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.FormatixAI/linkedin-toolkit",
@@ -1695,7 +1702,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Garl-Protocol/agent-trust",
@@ -1704,7 +1711,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Garl-Protocol/mcp-server",
@@ -1713,7 +1720,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Goldentrii/proxy-veil",
@@ -1722,7 +1729,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.HaD0Yun/gopeak",
@@ -1731,7 +1738,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Hei33enberg/marocain-mcp-server",
@@ -1740,7 +1747,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Hei33enberg/strajkpolski-mcp",
@@ -1749,7 +1756,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Hoya25/nctr-mcp-server",
@@ -1758,7 +1765,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.HypnoLabs-io/agentchurch-mcp",
@@ -1767,7 +1774,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.IgorGanapolsky/mcp-memory-gateway",
@@ -1776,7 +1783,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.IgorGanapolsky/rlhf-feedback-loop",
@@ -1794,7 +1801,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Infrawise/mcp-server",
@@ -1803,7 +1810,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ItsOdeLeo/codex4ever",
@@ -1812,14 +1819,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.JoblessJoe/local-llm-worker",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.joblessjoe/local-llm-worker.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.joblessjoe/local-llm-worker.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.KairosMobius/nexus-memory-mcp",
@@ -1828,7 +1835,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.KazKozDev/search",
@@ -1837,7 +1844,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.KhiipAI/khiip",
@@ -1846,7 +1853,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Looney-tic/intel-overdrive",
@@ -1855,7 +1862,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.LuuOW/meridian-skills",
@@ -1864,7 +1871,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Mehmoodqureshi/figma-mcp",
@@ -1873,7 +1880,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Metadrama/obscura-mcp",
@@ -1882,7 +1889,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.NovadaLabs/proxy4agents-mcp",
@@ -1891,7 +1898,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Nyarlathoteppppp/pi-durabletask-mcp",
@@ -1900,7 +1907,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.OrygnsCode/omnicord",
@@ -1909,7 +1916,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.PSPDFKit/nutrient-dws-mcp-server",
@@ -1918,7 +1925,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ParalonCloud/mcp-rentals",
@@ -1927,7 +1934,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Pavelsiba/yandex-direct-mcp-plus",
@@ -1945,7 +1952,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Qiskit/qiskit-code-assistant-mcp-server",
@@ -1954,7 +1961,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Ratnaditya-J/spineframe",
@@ -1963,7 +1970,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Rckl88/clawbackai-mcp",
@@ -1972,7 +1979,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.RoleModel/optics-mcp",
@@ -1981,7 +1988,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.RunTimeAdmin/archipelago-x402-mcp",
@@ -1990,7 +1997,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Sahib-Sawhney-WH/looking-glass-mcp",
@@ -1999,7 +2006,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SchematicHQ/schematic-mcp",
@@ -2008,7 +2015,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ShirBarZur/planform-mcp",
@@ -2017,7 +2024,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SidneyBissoli/cid10-br-mcp",
@@ -2026,7 +2033,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Snehgabani/elite-reasoning-mcp",
@@ -2035,7 +2042,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Stewyboy1990/companyscope-mcp",
@@ -2044,7 +2051,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Stewyboy1990/stockscope-mcp",
@@ -2062,7 +2069,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SylphxAI/image-reader-mcp",
@@ -2071,7 +2078,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SylphxAI/iris",
@@ -2080,7 +2087,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SylphxAI/lookout",
@@ -2089,7 +2096,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SylphxAI/smart-reader-mcp",
@@ -2098,7 +2105,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SylphxAI/video-reader-mcp",
@@ -2107,7 +2114,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.SyncTekLLC/ghostqa",
@@ -2116,7 +2123,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.The-40-Thieves/obsidian-tc",
@@ -2125,7 +2132,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ThomasViennet/referencime",
@@ -2134,7 +2141,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Tolomere21/latam-mcp",
@@ -2143,7 +2150,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ToremLabs/heuresis",
@@ -2152,7 +2159,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Udhay-Adithya/neopat-mcp",
@@ -2161,7 +2168,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.UltraStarz/x402-sms",
@@ -2188,7 +2195,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Vrun-design/openflowkit-mcp",
@@ -2197,7 +2204,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.WimSuenens/gs1belu-mpm",
@@ -2206,7 +2213,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.Yarmoluk/ckg-mcp",
@@ -2215,7 +2222,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.YawLabs/mcph",
@@ -2224,7 +2231,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.YawLabs/nol-mcp",
@@ -2233,7 +2240,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.YawLabs/vew-mcp",
@@ -2242,7 +2249,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.aartiq/servicenow-mcp",
@@ -2251,7 +2258,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.abbacusgroup/cortex",
@@ -2260,7 +2267,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.abhishekash/mcp-trace-inspector",
@@ -2269,7 +2276,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.aerolalit/pane",
@@ -2278,7 +2285,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.afferens/mcp-server",
@@ -2287,7 +2294,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ajselzilic/vocaless",
@@ -2305,7 +2312,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.albertbolanoss/labs_mcp",
@@ -2314,7 +2321,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.alex3000-ai/tari-explorer",
@@ -2332,7 +2339,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.anara123/weather",
@@ -2341,7 +2348,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.andresdefi/zerodust",
@@ -2350,7 +2357,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.andrewschristison/pondlog-garden",
@@ -2359,7 +2366,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.aplaceforallmystuff/mcp-kit",
@@ -2368,7 +2375,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.arpe-io/fastbcp-mcp",
@@ -2377,7 +2384,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.arpe-io/fasttransfer-mcp",
@@ -2386,7 +2393,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.arpe-io/lakexpress-mcp",
@@ -2395,7 +2402,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.arpe-io/migratorxpress-mcp",
@@ -2404,7 +2411,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.aryanduntley/aifp",
@@ -2413,7 +2420,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.attestifyagent/attestify-os",
@@ -2422,7 +2429,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.authzx/mcp-gateway",
@@ -2431,7 +2438,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ayo-nci/bulkrender",
@@ -2440,7 +2447,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.azorkai/crmsolid-mcp",
@@ -2449,7 +2456,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.barangaroo/crosstabs-mcp",
@@ -2458,7 +2465,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.benswel/qr-for-agent",
@@ -2476,7 +2483,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.bgorzelic/ghostlink",
@@ -2485,7 +2492,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.birthday-tools/edgarmcp",
@@ -2494,7 +2501,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.briangaoo/totem",
@@ -2503,7 +2510,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.briangaoo/whoop-mcp",
@@ -2512,7 +2519,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.browserbase/mcp-server-browserbase",
@@ -2521,7 +2528,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.bryantclark/cougarmap",
@@ -2530,7 +2537,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.buikevin/galaxy-design-mcp",
@@ -2539,7 +2546,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.calnflow/snapclap-mcp",
@@ -2548,7 +2555,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.carlosahumada89/govrider-mcp-server",
@@ -2557,7 +2564,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.carnation77/npa-vanguard",
@@ -2575,7 +2582,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.charistas/posokanei-mcp",
@@ -2584,7 +2591,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.chrischall/charlotteonthecheap-mcp",
@@ -2593,7 +2600,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.claymore666/debmatic-mcp",
@@ -2602,7 +2609,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.clockblocker/prinfer",
@@ -2611,7 +2618,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.clssck/dataiku-mcp",
@@ -2620,7 +2627,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-ap2",
@@ -2629,7 +2636,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-c6",
@@ -2638,7 +2645,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-caf",
@@ -2647,7 +2654,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-certta",
@@ -2656,7 +2663,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-dock",
@@ -2665,7 +2672,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-legiti",
@@ -2674,7 +2681,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-matera",
@@ -2683,7 +2690,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-nubank",
@@ -2692,7 +2699,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-nuvem-fiscal",
@@ -2701,7 +2708,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-ucp",
@@ -2710,7 +2717,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-unico",
@@ -2719,7 +2726,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codespar/mcp-x402",
@@ -2728,14 +2735,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.codevanmoose/truncus-mcp-server",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.codevanmoose/truncus-mcp-server.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.codevanmoose/truncus-mcp-server.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cognitivemyriad/verified-repo-memory",
@@ -2744,7 +2751,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.collapseindex/ci1t-mcp",
@@ -2753,7 +2760,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.commitshow/legitshow-search",
@@ -2762,7 +2769,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.conorbronsdon/transistor-mcp",
@@ -2778,7 +2785,7 @@
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cryptyx-ai/cryptyx-mcp-server.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cryptyx-ai/cryptyx-mcp-server.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/bls-mcp-server",
@@ -2787,7 +2794,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/eia-mcp-server",
@@ -2796,7 +2803,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/fred-mcp-server",
@@ -2805,7 +2812,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/gbif-mcp-server",
@@ -2814,7 +2821,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/mcp-ts-template",
@@ -2823,7 +2830,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/noaa-cdo-mcp-server",
@@ -2832,7 +2839,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/nominatim-mcp-server",
@@ -2841,14 +2848,14 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/protein-mcp-server",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cyanheads/protein-mcp-server.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.cyanheads/protein-mcp-server.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.cyanheads/uspto-mcp-server",
@@ -2857,7 +2864,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dan24ou-cpu/agent-signal",
@@ -2866,7 +2873,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.danielctc/ctc-monitor-mcp",
@@ -2875,7 +2882,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.darknodebros/elesync",
@@ -2884,7 +2891,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dataraum/dataraum",
@@ -2893,7 +2900,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.datasynx/agentic-ai-shadowing",
@@ -2902,7 +2909,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.datasynx/cartography",
@@ -2911,7 +2918,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.devicorn/cmskite-mcp",
@@ -2920,7 +2927,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dgesteves/design-system-mcp",
@@ -2929,7 +2936,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dmsnavin/grandline-mcp",
@@ -2938,7 +2945,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.donnywin85/bsc-dex-spread",
@@ -2947,7 +2954,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dropthis-dev/dropthis-mcp",
@@ -2956,7 +2963,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.dynatrace-oss/Dynatrace-mcp",
@@ -2965,7 +2972,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.egulatee/codecov",
@@ -2974,7 +2981,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.elisymlabs/elisym-mcp",
@@ -2983,7 +2990,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.elisymprotocol/elisym-mcp",
@@ -2992,7 +2999,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.elmatis172/validalatam-mcp",
@@ -3019,7 +3026,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.evan-moon/firma",
@@ -3028,7 +3035,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.fabkho/nuxt-i18n-mcp",
@@ -3037,7 +3044,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.fdcommercial/property-finance-mcp",
@@ -3046,7 +3053,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.feder-cr/aihawk",
@@ -3055,7 +3062,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.fegalvezg/skaut-mcp",
@@ -3073,7 +3080,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.fluttersdk/ai",
@@ -3091,7 +3098,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.forever-healthy/fh-library",
@@ -3100,7 +3107,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/coingecko-mcp-server",
@@ -3109,7 +3116,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/defillama-mcp-server",
@@ -3118,7 +3125,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/etherscan-mcp-server",
@@ -3127,7 +3134,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/jira-mcp-server",
@@ -3136,7 +3143,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/jobber-mcp-server",
@@ -3145,7 +3152,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/plausible-mcp-server",
@@ -3154,7 +3161,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/posthog-mcp-server",
@@ -3163,7 +3170,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/resend-mcp-server",
@@ -3172,7 +3179,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.friendlygeorge/sentry-mcp-server",
@@ -3199,7 +3206,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.gaviwhatsapp/whatsapp",
@@ -3208,7 +3215,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.gener8v-thomas/mcp-geographic-data",
@@ -3217,7 +3224,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.gersonfreire/simpliq-server",
@@ -3226,7 +3233,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.globallayer/mcp-server",
@@ -3235,7 +3242,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.gordonkjlee/factmem",
@@ -3244,7 +3251,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.gowrishankar-infra/velaris",
@@ -3253,7 +3260,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.h1-hunt/mintclub",
@@ -3262,7 +3269,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.habenani/servicenow-mcp",
@@ -3271,7 +3278,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.hellovelop/limelink-mcp-server",
@@ -3280,14 +3287,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.heznpc/airmcp",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.heznpc/airmcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.heznpc/airmcp.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.heznpc/iconnect",
@@ -3296,7 +3303,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.hlix-ai/hlix",
@@ -3305,7 +3312,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.holetron/hindsight-mempalace",
@@ -3314,7 +3321,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.iamjamb/shipscreens",
@@ -3332,7 +3339,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.imashishkh21/atlaso",
@@ -3341,7 +3348,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.index9-org/mcp",
@@ -3350,7 +3357,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.infai-tech/vulnfeed",
@@ -3359,7 +3366,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.infraveilhq/agent-guard",
@@ -3368,7 +3375,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.infraveilhq/control-plane",
@@ -3377,7 +3384,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.intenttext/intenttext-mcp",
@@ -3386,7 +3393,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ipezygj/agent-guard",
@@ -3395,7 +3402,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ipezygj/evalgate",
@@ -3404,7 +3411,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.isaacviannadev/spikeme",
@@ -3422,7 +3429,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.j-256/discord-mcp",
@@ -3431,7 +3438,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.j0hanz/code-review-analyst",
@@ -3440,7 +3447,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.j0hanz/filesystem-context",
@@ -3449,7 +3456,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.j0hanz/superfetch",
@@ -3458,7 +3465,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jamesrez/valoria-intelligence",
@@ -3467,7 +3474,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jasonko/psquare",
@@ -3476,7 +3483,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jfarcand/iphone-mirroir-mcp",
@@ -3494,7 +3501,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/accessibility-statement-lint",
@@ -3503,7 +3510,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/action-runtime-sunset-lint",
@@ -3512,7 +3519,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/actions-deprecation-lint-2026",
@@ -3521,7 +3528,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/age-gate-lint",
@@ -3530,7 +3537,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/agentforce-action-audit",
@@ -3539,7 +3546,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ai-act-article-50-audit",
@@ -3548,7 +3555,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ai-companion-safety-lint",
@@ -3557,7 +3564,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ai-disclosure-lint-sb942",
@@ -3566,7 +3573,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ai-model-license-lint",
@@ -3575,7 +3582,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ai-model-retirement-lint",
@@ -3584,7 +3591,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/angular-removed-api-lint",
@@ -3593,7 +3600,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/arbeitsvertrag-nachwg-lint",
@@ -3602,7 +3609,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/auditor-ibs-cbs-nfe",
@@ -3611,7 +3618,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/auftragsverarbeitung-avv-lint",
@@ -3620,7 +3627,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/autohotkey-toml-devicetree-snippets",
@@ -3629,7 +3636,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/autorenew-signup-lint",
@@ -3638,7 +3645,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/base-image-eol-lint",
@@ -3647,7 +3654,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/bem-class-extractor-html",
@@ -3656,7 +3663,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/bescheid-vorlage-lint-kag",
@@ -3665,7 +3672,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/bestellabschluss-pflichten-de",
@@ -3674,7 +3681,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/bnpl-disclosure-lint-ccd2",
@@ -3683,7 +3690,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/bulk-sender-lint",
@@ -3692,7 +3699,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/canal-de-denuncias-lint-es",
@@ -3701,7 +3708,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cbpr-address-lint",
@@ -3710,7 +3717,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cloud-cost-landmine-lint",
@@ -3719,7 +3726,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cloud-manifest-audit-kit",
@@ -3728,7 +3735,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cms-0057-api-gate",
@@ -3737,7 +3744,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/config-dsl-lint-snippet-pack",
@@ -3746,7 +3753,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/connection-string-secret-audit",
@@ -3755,7 +3762,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/consent-audit-eu",
@@ -3764,7 +3771,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/consent-proof-record-lint",
@@ -3773,7 +3780,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/container-hardening-800-190",
@@ -3782,7 +3789,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/coverage-gate-lint",
@@ -3791,7 +3798,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cra-24-72-14-reporting-lint",
@@ -3800,7 +3807,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cra-annex-ii-docs-lint",
@@ -3809,7 +3816,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cra-readiness-audit",
@@ -3818,7 +3825,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/cron-schedule-lint",
@@ -3827,7 +3834,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/crypto-export-notice-lint",
@@ -3836,7 +3843,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/currency-minor-unit-lint",
@@ -3845,7 +3852,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/data-act-switching-lint",
@@ -3854,7 +3861,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/datenschutz-auskunft-lint",
@@ -3863,7 +3870,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/denchoho-sakuin-check-2026",
@@ -3872,7 +3879,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/devicetree-config-language-pack",
@@ -3881,7 +3888,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dienstanweisung-bewachung-lint",
@@ -3890,7 +3897,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dividenden-quellensteuer-lint",
@@ -3899,7 +3906,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dora-ict-contract-clause-lint",
@@ -3908,7 +3915,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dora-register-lint",
@@ -3917,7 +3924,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dotnet-eol-support-gate",
@@ -3926,7 +3933,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/dsfinv-k-export-lint",
@@ -3935,7 +3942,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/eaa-form-lint-wcag22",
@@ -3944,7 +3951,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/einvoice-mandate-lint",
@@ -3953,7 +3960,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/email-footer-law-lint",
@@ -3962,7 +3969,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/en16931-einvoice-lint",
@@ -3971,7 +3978,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/en18031-psti-lint",
@@ -3980,7 +3987,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/en301549-lint",
@@ -3989,7 +3996,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/epub-a11y-metadata-lint",
@@ -3998,7 +4005,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/erb-escape-audit",
@@ -4007,7 +4014,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/eu-health-claim-lint",
@@ -4016,7 +4023,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/eudi-rp-request-lint",
@@ -4025,7 +4032,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/facturae-verifactu-lint",
@@ -4034,7 +4041,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/fedramp-oscal-ssp-lint",
@@ -4043,7 +4050,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/firebase-deploy-leak-audit",
@@ -4052,7 +4059,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/firestore-rules-guard",
@@ -4061,7 +4068,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/firmware-release-gate",
@@ -4070,7 +4077,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/france-einvoice-reception-lint",
@@ -4079,7 +4086,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/freelance-act-order-lint-jp",
@@ -4088,7 +4095,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gaibu-soshin-tag-lint-jp",
@@ -4097,7 +4104,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gdpr-privacy-notice-lint",
@@ -4106,7 +4113,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gerichtskosten-tabelle-lint",
@@ -4115,7 +4122,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gitlab-ci-break-lint",
@@ -4124,7 +4131,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gnu-global-cpp-vscode-config-pack",
@@ -4133,7 +4140,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/gpsr-listing-lint",
@@ -4142,7 +4149,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/green-claim-lint-empco",
@@ -4151,7 +4158,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/hardcoded-credential-audit",
@@ -4160,7 +4167,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/hex-image-audit",
@@ -4169,7 +4176,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/hmrc-fraud-prevention-header-lint",
@@ -4178,7 +4185,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/hospital-mrf-lint",
@@ -4187,7 +4194,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/i18n-fr-ca-bill96-lint",
@@ -4196,7 +4203,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/image-host-transfer-lint",
@@ -4205,7 +4212,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/impressum-check-ddg-de",
@@ -4214,7 +4221,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/impressum-lint-de",
@@ -4223,7 +4230,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ingress-nginx-retirement-lint",
@@ -4232,7 +4239,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/jct-transition-lint-2026",
@@ -4241,7 +4248,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/jdk25-upgrade-blocker-lint",
@@ -4250,7 +4257,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/jest-snapshot-pii-audit",
@@ -4259,7 +4266,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/k8s-removed-api-lint",
@@ -4268,7 +4275,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/kassenbeleg-tse-lint",
@@ -4277,7 +4284,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ksef-fa3-invoice-lint",
@@ -4286,7 +4293,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/latex-submission-lint",
@@ -4295,7 +4302,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/lectura-facil-lint-es",
@@ -4304,7 +4311,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/license-flip-audit",
@@ -4313,7 +4320,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/lit-binding-xss-audit",
@@ -4322,7 +4329,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/livewire-client-surface-audit",
@@ -4331,7 +4338,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/livewire3-upgrade-blocker-lint",
@@ -4340,7 +4347,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/log-pii-telemetry-lint",
@@ -4349,7 +4356,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/mahnung-vorlagen-check-de",
@@ -4358,7 +4365,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/maui-ios-submission-gate",
@@ -4367,7 +4374,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/mcp-2026-migration-lint",
@@ -4376,7 +4383,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/mcp-config-audit",
@@ -4385,7 +4392,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/mcp-config-guard",
@@ -4394,7 +4401,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/model-card-lint-gpai",
@@ -4403,7 +4410,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/nis2-incident-runbook-lint",
@@ -4412,7 +4419,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/npm-trusted-publish-lint",
@@ -4421,7 +4428,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/openapi-security-contract-lint",
@@ -4430,7 +4437,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/optout-signal-lint",
@@ -4439,7 +4446,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/oracle-jdk-license-gate",
@@ -4448,7 +4455,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/otel-collector-drift-lint",
@@ -4457,7 +4464,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/outlook-email-html-lint",
@@ -4466,7 +4473,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/payroll-deduction-code-audit",
@@ -4475,7 +4482,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pci-payment-page-script-audit",
@@ -4484,7 +4491,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/personal-data-map-dsar-audit",
@@ -4493,7 +4500,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pg-migration-lock-lint",
@@ -4502,7 +4509,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/play-declaration-gap-lint",
@@ -4511,7 +4518,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/play-release-blocker-lint",
@@ -4520,7 +4527,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pld-liability-window-lint",
@@ -4529,7 +4536,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pqc-deprecation-lint",
@@ -4538,7 +4545,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/privacy-manifest-lint",
@@ -4547,7 +4554,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/proto-wire-break-check",
@@ -4556,7 +4563,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pyproject-release-gate",
@@ -4565,7 +4572,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/pytest-deprecation-lint",
@@ -4574,7 +4581,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/rechnung-pflichtangaben-lint-de",
@@ -4583,7 +4590,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/reisekosten-pruefer-2026",
@@ -4592,7 +4599,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/renpy-release-gate",
@@ -4601,7 +4608,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/robots-txt-ai-crawler-audit",
@@ -4610,7 +4617,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/romu-hozon-kikan-lint-jp",
@@ -4619,7 +4626,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/runtime-eol-deploy-block-audit",
@@ -4628,7 +4635,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/saft-pt-atcud-lint",
@@ -4637,7 +4644,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/security-headers-csp-lint",
@@ -4646,7 +4653,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/security-txt-cra-lint",
@@ -4655,7 +4662,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/sepa-pain001-reject-lint",
@@ -4664,7 +4671,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/sfdx-retirement-lint",
@@ -4673,7 +4680,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/soup-list-lint",
@@ -4682,7 +4689,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/spdx-license-field-lint",
@@ -4691,7 +4698,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/spf-dmarc-record-lint",
@@ -4700,7 +4707,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/sql-card-data-lint",
@@ -4709,7 +4716,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/ssdf-attestation-workflow-audit",
@@ -4718,7 +4725,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/steuerlager-schwund-check-de",
@@ -4727,7 +4734,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/streitbeilegung-hinweis-lint",
@@ -4736,7 +4743,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/sv-rechengroessen-lint-2026",
@@ -4745,7 +4752,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/svg-asset-compliance-lint",
@@ -4754,7 +4761,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/tailwind-v4-upgrade-blocker-lint",
@@ -4763,7 +4770,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/tax-year-constant-drift-lint",
@@ -4772,7 +4779,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/tdm-reservation-lint",
@@ -4781,7 +4788,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/terraform-provider-pin-lint",
@@ -4790,7 +4797,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/tls-cert-lifetime-lint",
@@ -4799,7 +4806,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/uscore-profile-gap-lint",
@@ -4808,7 +4815,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/verfahrensdoku-gobd-check",
@@ -4817,7 +4824,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/vsix-publish-lint",
@@ -4826,7 +4833,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/vvt-pruefer-art-30-dsgvo",
@@ -4835,7 +4842,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/wcag21-aa-legal-baseline-audit",
@@ -4844,7 +4851,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/wcag22-css-lint",
@@ -4853,7 +4860,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/webfont-license-audit",
@@ -4862,7 +4869,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/weiterbildung-foerderquote-lint",
@@ -4871,7 +4878,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/wordpress-privacy-lint",
@@ -4880,7 +4887,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.jmshinhwa/wp-plugin-review-gate",
@@ -4889,7 +4896,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.kaditang/402sentinel-mcp",
@@ -4898,7 +4905,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.kaditang/agent-wallet-mcp",
@@ -4907,7 +4914,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.karanb192/reddit-buddy-mcp",
@@ -4916,7 +4923,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.kevint-cerebras/cerebras-code-mcp",
@@ -4925,7 +4932,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.khalidsaidi/a2abench",
@@ -4934,14 +4941,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.khalidsaidi/ragmap",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.khalidsaidi/ragmap.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.khalidsaidi/ragmap.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.kolganovr/figma-mcp-bridge",
@@ -4950,7 +4957,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.kontent-ai/mcp-server",
@@ -4966,7 +4973,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.lambdabypi/leangate",
@@ -4975,7 +4982,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.levnikolaevich/hex-graph-mcp",
@@ -4984,7 +4991,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.levnikolaevich/hex-line-mcp",
@@ -4993,7 +5000,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.levnikolaevich/hex-research-mcp",
@@ -5002,7 +5009,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.levnikolaevich/hex-ssh-mcp",
@@ -5011,7 +5018,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.lightningfaucet/mcp-server",
@@ -5020,7 +5027,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.littlebearapps/outlook-mcp",
@@ -5029,7 +5036,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.lofder/dsers-mcp-product",
@@ -5038,7 +5045,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.loncadev/baron",
@@ -5047,7 +5054,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.lukisch/bach-codecommander-mcp",
@@ -5056,7 +5063,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.lukisch/bach-filecommander-mcp",
@@ -5065,7 +5072,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.luzomi/grandline-mcp",
@@ -5074,7 +5081,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mariorojasmz/apolo-cad",
@@ -5083,7 +5090,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.markusvankempen/wxo-agent-mcp",
@@ -5102,7 +5109,7 @@
         "declared_package_deprecated",
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.meltingpixelsai/harvey-budget",
@@ -5111,7 +5118,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.meltingpixelsai/harvey-intel",
@@ -5120,7 +5127,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.meltingpixelsai/harvey-tools",
@@ -5129,7 +5136,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.meltingpixelsai/harvey-verify",
@@ -5138,7 +5145,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mfbahc/colter",
@@ -5147,7 +5154,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.michu5696/agora402",
@@ -5156,7 +5163,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mindcase-co/mindcase",
@@ -5174,7 +5181,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mjandrews1/c3fst-biomedical-search",
@@ -5183,7 +5190,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.motiveflowllc/agentvault",
@@ -5192,7 +5199,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mountainmystic/hedera-mcp-platform",
@@ -5201,7 +5208,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.mrfentmen/statuspage-mcp",
@@ -5215,7 +5222,7 @@
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.mrfentmen/stripe-mcp.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.msgwing/zerosmtp",
@@ -5233,7 +5240,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.nhorie-canal/mmm-mcp-server",
@@ -5258,7 +5265,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.njlnaet/coderswap-mcp-server",
@@ -5267,7 +5274,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.nolindnaidoo/jevlint-le",
@@ -5276,7 +5283,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.nugehs/repoctx",
@@ -5285,7 +5292,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.nyuchi/nyuchi-docs",
@@ -5294,7 +5301,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.oaslananka/composer",
@@ -5303,7 +5310,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.oaslananka/sentinel",
@@ -5312,7 +5319,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.omkardongre/veilquota",
@@ -5321,7 +5328,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.opcastil11/rogerrat",
@@ -5339,7 +5346,16 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
+    },
+    {
+      "name": "io.github.otsirh/book-cover-generator",
+      "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.otsirh/book-cover-generator.html",
+      "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.otsirh/book-cover-generator.json",
+      "facts": [
+        "declared_package_deprecated"
+      ],
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pairbook-io/pairbook-mcp",
@@ -5348,7 +5364,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pardhuparimi/backroom",
@@ -5357,7 +5373,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pasichDev/todo-mcp",
@@ -5366,7 +5382,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.patwalls/superhighway-mcp",
@@ -5384,7 +5400,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.payclaw/badge",
@@ -5393,7 +5409,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.payclaw/payclaw",
@@ -5402,7 +5418,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.payclaw/spend",
@@ -5411,14 +5427,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pedroknigge/ark",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.pedroknigge/ark.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.pedroknigge/ark.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pedropaulofernandes88-stack/saudeemdado",
@@ -5427,7 +5443,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.phuongddx/codeintel",
@@ -5436,7 +5452,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pinchwork/pinchwork",
@@ -5445,7 +5461,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pipeworx-io/terminal49",
@@ -5463,7 +5479,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pironjulien/nexus-windows-claude",
@@ -5472,7 +5488,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pironjulien/nexus-windows-codex",
@@ -5481,7 +5497,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.pofky/appstore-connect-mcp",
@@ -5490,7 +5506,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.prized-dev/sandboxes",
@@ -5499,7 +5515,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.qso-graph/js8call-mcp",
@@ -5508,7 +5524,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.qso-graph/qsp-mcp",
@@ -5517,7 +5533,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.qune-tech/ocds-mcp",
@@ -5526,7 +5542,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.rafapra3008/lu-mcp-server",
@@ -5535,7 +5551,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.railwayapp/mcp-server",
@@ -5544,7 +5560,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.raisiqueira/django-telescope",
@@ -5553,7 +5569,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ramaris-app/mcp-server",
@@ -5562,7 +5578,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.raportagent/raportagent-mcp",
@@ -5571,7 +5587,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.re-bruce-wayne/trade-router-mcp",
@@ -5580,7 +5596,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ribato22/baton",
@@ -5589,7 +5605,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.richy7734/nexus3d-mcp",
@@ -5598,7 +5614,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.robot-resources/router",
@@ -5607,7 +5623,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.robot-resources/scraper",
@@ -5616,7 +5632,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ryanbaumann/platform-ai",
@@ -5625,7 +5641,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sandcastlelabs/collimer-mcp",
@@ -5634,7 +5650,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sarveshsea/memoire",
@@ -5643,7 +5659,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sbrunner-atx/contest-mcp",
@@ -5652,7 +5668,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.scratchpad-sh/scratchpad",
@@ -5661,7 +5677,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sendsoon/ai",
@@ -5670,7 +5686,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.seojeom/seojeom-mcp",
@@ -5679,7 +5695,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sezzlee/mssql",
@@ -5688,7 +5704,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sezzlee/postgres",
@@ -5697,7 +5713,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.shashwatgtm/impact-mcp-server",
@@ -5706,7 +5722,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.shmindmaster/repocontext",
@@ -5715,7 +5731,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.silversurfer562/memdocs",
@@ -5724,7 +5740,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.simplemindedbot/mnemex",
@@ -5733,7 +5749,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sjk4425/ncloud-gov",
@@ -5742,7 +5758,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.smartmemory/stratum-mcp",
@@ -5751,7 +5767,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.stillmarcus24/stillos-notary",
@@ -5769,7 +5785,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sugukurukabe/koko-call",
@@ -5778,7 +5794,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.sunsiyuan/human-survey",
@@ -5787,7 +5803,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.szhygulin/recon-crypto-mcp",
@@ -5805,7 +5821,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tendertrail/sanctionscreen-mcp",
@@ -5823,7 +5839,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.testdino-inc/testdino-mcp",
@@ -5841,7 +5857,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.the402ai/mcp-server",
@@ -5850,7 +5866,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.theoddden/atomic-clock",
@@ -5859,7 +5875,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.therawlogs/kineti",
@@ -5868,7 +5884,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.ti-ab/wisewall-mcp",
@@ -5895,7 +5911,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tolenonetwork/mcp_toleno",
@@ -5904,7 +5920,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tombaldwin/agentlink",
@@ -5913,7 +5929,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tomcat65/engram",
@@ -5922,7 +5938,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tonbistudio/agentwikis-mcp",
@@ -5938,7 +5954,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.tresor4k/realdentalcosts-mcp",
@@ -5956,14 +5972,14 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.up2itnow0822/agentpay",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.up2itnow0822/agentpay.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.up2itnow0822/agentpay.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.up2itnow0822/clawpay",
@@ -5972,7 +5988,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.up2itnow0822/clawpay-mcp",
@@ -5981,7 +5997,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.veyndrasystems/agent-release-auditor",
@@ -5990,7 +6006,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.virwave/virwave-breathe",
@@ -6008,7 +6024,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.vncsleal/openplan",
@@ -6017,7 +6033,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.vorluno/agora-mcp",
@@ -6026,7 +6042,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.vorluno/batuta-mcp",
@@ -6035,7 +6051,16 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
+    },
+    {
+      "name": "io.github.vpatel9202/glovebox",
+      "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.vpatel9202/glovebox.html",
+      "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.vpatel9202/glovebox.json",
+      "facts": [
+        "declared_package_deprecated"
+      ],
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.walensis-labs/mcp-for-ynab",
@@ -6044,7 +6069,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.wazionapps/nexo",
@@ -6053,7 +6078,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.webmoleai/mcp-license-audit",
@@ -6062,7 +6087,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.webmoleai/mcp-link-doctor",
@@ -6071,7 +6096,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.weiyongxu/mne-docs",
@@ -6087,7 +6112,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.wi9ine/toss-invest",
@@ -6096,7 +6121,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.withpica/pica-business",
@@ -6105,7 +6130,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.withpica/pica-enrichment",
@@ -6114,7 +6139,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.withpica/pica-settings",
@@ -6123,7 +6148,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.wklm/ios-web-bluetooth",
@@ -6132,7 +6157,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.wrenchpilot/it-tools-mcp",
@@ -6141,7 +6166,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.writerslogic/holographic-memory-mcp",
@@ -6151,7 +6176,7 @@
         "declared_package_not_found",
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.xiaojiou176-open/cortexpilot-readonly",
@@ -6160,7 +6185,7 @@
       "facts": [
         "declared_package_project_status"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.yakuphanycl/instinct",
@@ -6169,7 +6194,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.yss787976-ai/aqb-agent",
@@ -6178,7 +6203,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zachshallbetter/indesign-mcp-server",
@@ -6187,7 +6212,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zaharajabeen13-create/inferra-mcp",
@@ -6196,7 +6221,7 @@
       "facts": [
         "declared_package_yanked"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zdravo-ai/zdravo-cursor",
@@ -6205,14 +6230,14 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zeluizr/adobe-commerce-mcp",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.zeluizr/adobe-commerce-mcp.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.zeluizr/adobe-commerce-mcp.json",
       "facts": [],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zeluizr/vtex-io-mcp",
@@ -6230,7 +6255,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zguiyang/pi-worker-mcp",
@@ -6239,7 +6264,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.github.zhuyu1022/lumenhaus-energy-mcp",
@@ -6248,7 +6273,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.gvnr/enforcer-governor",
@@ -6257,7 +6282,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.intencion/mcp",
@@ -6266,7 +6291,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "io.keyban.prod.mcp/agent-wallet",
@@ -6275,7 +6300,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "lol.typosafe/jef",
@@ -6284,7 +6309,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "net.dmytro-prototypes/cadbridge-mcp-autocad",
@@ -6293,7 +6318,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "studio.kynth/core",
@@ -6302,7 +6327,7 @@
       "facts": [
         "declared_package_not_found"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "studio.kynth/kynth-mcp",
@@ -6311,7 +6336,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "tech.p7n/platform7n",
@@ -6320,7 +6345,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     },
     {
       "name": "tech.thecompound/blockdex",
@@ -6329,7 +6354,7 @@
       "facts": [
         "declared_package_deprecated"
       ],
-      "last_checked_on": "2026-11-19"
+      "last_checked_on": "2026-11-20"
     }
   ]
 }
