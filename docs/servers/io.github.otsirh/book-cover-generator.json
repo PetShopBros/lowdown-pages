@@ -21,11 +21,17 @@
     "version": "1.13.0",
     "first_seen_on": "2026-11-15",
     "baseline": false,
-    "removed_on": null,
+    "removed_on": "2026-11-21",
     "changes": [
       {
         "detected_on": "2026-11-15",
         "kind": "new",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-21",
+        "kind": "removed",
         "old_value": null,
         "new_value": null
       }
