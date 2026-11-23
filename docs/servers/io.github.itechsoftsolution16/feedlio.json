@@ -20,13 +20,19 @@
     "version": "0.1.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
-    "removed_on": null,
+    "removed_on": "2026-11-23",
     "changes": [
       {
         "detected_on": "2026-11-14",
         "kind": "status",
         "old_value": "active",
         "new_value": "deprecated"
+      },
+      {
+        "detected_on": "2026-11-23",
+        "kind": "removed",
+        "old_value": null,
+        "new_value": null
       }
     ]
   },

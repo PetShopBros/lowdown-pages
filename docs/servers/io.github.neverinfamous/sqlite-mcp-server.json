@@ -4,44 +4,29 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.neverinfamous/sqlite-mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.neverinfamous/sqlite-mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.neverinfamous/sqlite-mcp-server",
-  "facts": [
-    {
-      "code": "declared_package_not_found",
-      "registry_type": "pypi",
-      "identifier": "sqlite-mcp-server-enhanced",
-      "not_found_kind": "no_project",
-      "since": {
-        "on": "2026-10-23",
-        "basis": "first_check"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
-    "version": "2.6.3",
+    "version": "2.6.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
-    "changes": []
-  },
-  "packages": [
-    {
-      "registry_type": "pypi",
-      "identifier": "sqlite-mcp-server-enhanced",
-      "declared_version": "2.6.3",
-      "transport": "stdio",
-      "state": {
-        "status": "not_found",
-        "latest": null,
-        "latest_yanked": null,
-        "project_status": null,
-        "not_found_kind": "no_project",
-        "not_found_confirmed": true
+    "changes": [
+      {
+        "detected_on": "2026-11-23",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
       },
-      "first_checked_on": "2026-10-23",
-      "events": []
-    }
-  ],
+      {
+        "detected_on": "2026-11-23",
+        "kind": "version",
+        "old_value": "2.6.3",
+        "new_value": "2.6.0"
+      }
+    ]
+  },
+  "packages": [],
   "limits": [
     "Package code was not installed or run.",
     "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
