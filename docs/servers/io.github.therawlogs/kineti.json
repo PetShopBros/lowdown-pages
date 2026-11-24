@@ -4,18 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.therawlogs/kineti.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.therawlogs/kineti.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.therawlogs/kineti",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "kineti",
-      "version": "0.6.1",
-      "since": {
-        "on": "2026-10-31",
-        "basis": "change"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "0.3.4",
@@ -32,8 +21,8 @@
       "transport": "stdio",
       "state": {
         "status": "found",
-        "latest": "0.6.1",
-        "deprecated": true,
+        "latest": "1.0.1",
+        "deprecated": false,
         "not_found_confirmed": false
       },
       "first_checked_on": "2026-10-22",
@@ -54,6 +43,18 @@
           "detected_on": "2026-10-31",
           "kind": "deprecated",
           "old_value": "0.6.1",
+          "new_value": null
+        },
+        {
+          "detected_on": "2026-11-24",
+          "kind": "latest_changed",
+          "old_value": "0.6.1",
+          "new_value": "1.0.1"
+        },
+        {
+          "detected_on": "2026-11-24",
+          "kind": "undeprecated",
+          "old_value": "1.0.1",
           "new_value": null
         }
       ]
