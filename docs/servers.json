@@ -2,7 +2,7 @@
   "schema": "lowdown-server-index/1",
   "data_as_of": "2026-11-24T20:37:09.811+00:00",
   "count": 715,
-  "with_facts": 691,
+  "with_facts": 689,
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "servers": [
@@ -294,10 +294,8 @@
       "name": "dev.whiteintel/whiteintel",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/dev.whiteintel/whiteintel.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/dev.whiteintel/whiteintel.json",
-      "facts": [
-        "declared_package_not_found"
-      ],
-      "last_checked_on": "2026-11-24"
+      "facts": [],
+      "last_checked_on": null
     },
     {
       "name": "eu.ansvar/argentine-law-mcp",
@@ -5690,10 +5688,8 @@
       "name": "io.github.scratchpad-sh/scratchpad",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/io.github.scratchpad-sh/scratchpad.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/io.github.scratchpad-sh/scratchpad.json",
-      "facts": [
-        "declared_package_not_found"
-      ],
-      "last_checked_on": "2026-11-24"
+      "facts": [],
+      "last_checked_on": null
     },
     {
       "name": "io.github.sendsoon/ai",

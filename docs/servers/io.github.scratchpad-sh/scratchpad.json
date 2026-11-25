@@ -4,17 +4,7 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.scratchpad-sh/scratchpad.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/io.github.scratchpad-sh/scratchpad.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:io.github.scratchpad-sh/scratchpad",
-  "facts": [
-    {
-      "code": "declared_package_not_found",
-      "registry_type": "npm",
-      "identifier": "@scratchpadsh/mcp",
-      "since": {
-        "on": "2026-11-15",
-        "basis": "change"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
     "version": "1.0.0",
@@ -27,32 +17,16 @@
         "kind": "new",
         "old_value": null,
         "new_value": null
+      },
+      {
+        "detected_on": "2026-11-25",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
       }
     ]
   },
-  "packages": [
-    {
-      "registry_type": "npm",
-      "identifier": "@scratchpadsh/mcp",
-      "declared_version": "1.0.0",
-      "transport": "stdio",
-      "state": {
-        "status": "not_found",
-        "latest": null,
-        "deprecated": null,
-        "not_found_confirmed": true
-      },
-      "first_checked_on": "2026-11-02",
-      "events": [
-        {
-          "detected_on": "2026-11-15",
-          "kind": "not_found",
-          "old_value": "1.0.0",
-          "new_value": null
-        }
-      ]
-    }
-  ],
+  "packages": [],
   "limits": [
     "Package code was not installed or run.",
     "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
