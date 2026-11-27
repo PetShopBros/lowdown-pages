@@ -1,0 +1,491 @@
+{
+  "schema": "lowdown-server-page/1",
+  "name": "ai.pidgeon/mcp",
+  "page_url": "https://petshopbros.github.io/lowdown-pages/servers/ai.pidgeon/mcp.html",
+  "json_url": "https://petshopbros.github.io/lowdown-pages/servers/ai.pidgeon/mcp.json",
+  "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:ai.pidgeon/mcp",
+  "facts": [
+    {
+      "code": "declared_package_deprecated",
+      "registry_type": "npm",
+      "identifier": "@pidgeon-ai/mcp",
+      "version": "1.19.0",
+      "since": {
+        "on": "2026-11-27",
+        "basis": "change"
+      }
+    }
+  ],
+  "registry": {
+    "status": "active",
+    "version": "1.15.0",
+    "first_seen_on": "2026-10-19",
+    "baseline": true,
+    "removed_on": null,
+    "changes": [
+      {
+        "detected_on": "2026-10-20",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-20",
+        "kind": "version",
+        "old_value": "0.9.1",
+        "new_value": "0.11.0"
+      },
+      {
+        "detected_on": "2026-10-21",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-21",
+        "kind": "version",
+        "old_value": "0.11.0",
+        "new_value": "0.12.1"
+      },
+      {
+        "detected_on": "2026-10-22",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-22",
+        "kind": "version",
+        "old_value": "0.12.1",
+        "new_value": "0.12.2"
+      },
+      {
+        "detected_on": "2026-10-24",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-24",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-24",
+        "kind": "version",
+        "old_value": "0.12.2",
+        "new_value": "0.14.0"
+      },
+      {
+        "detected_on": "2026-10-25",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-25",
+        "kind": "version",
+        "old_value": "0.14.0",
+        "new_value": "0.15.1"
+      },
+      {
+        "detected_on": "2026-10-26",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-26",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-26",
+        "kind": "version",
+        "old_value": "0.15.1",
+        "new_value": "0.17.0"
+      },
+      {
+        "detected_on": "2026-10-28",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-28",
+        "kind": "version",
+        "old_value": "0.17.0",
+        "new_value": "0.18.0"
+      },
+      {
+        "detected_on": "2026-10-30",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-10-30",
+        "kind": "version",
+        "old_value": "0.18.0",
+        "new_value": "0.20.0"
+      },
+      {
+        "detected_on": "2026-11-01",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-01",
+        "kind": "version",
+        "old_value": "0.20.0",
+        "new_value": "0.22.0"
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-02",
+        "kind": "version",
+        "old_value": "0.22.0",
+        "new_value": "0.22.1"
+      },
+      {
+        "detected_on": "2026-11-04",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-04",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-04",
+        "kind": "version",
+        "old_value": "0.22.1",
+        "new_value": "0.27.0"
+      },
+      {
+        "detected_on": "2026-11-06",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-06",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-06",
+        "kind": "version",
+        "old_value": "0.27.0",
+        "new_value": "0.28.1"
+      },
+      {
+        "detected_on": "2026-11-14",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-14",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-14",
+        "kind": "version",
+        "old_value": "0.28.1",
+        "new_value": "0.29.0"
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "remotes",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-15",
+        "kind": "version",
+        "old_value": "0.29.0",
+        "new_value": "1.3.0"
+      },
+      {
+        "detected_on": "2026-11-16",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-16",
+        "kind": "version",
+        "old_value": "1.3.0",
+        "new_value": "1.6.0"
+      },
+      {
+        "detected_on": "2026-11-18",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-18",
+        "kind": "remotes",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-18",
+        "kind": "version",
+        "old_value": "1.6.0",
+        "new_value": "1.8.0"
+      },
+      {
+        "detected_on": "2026-11-19",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-19",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-19",
+        "kind": "version",
+        "old_value": "1.8.0",
+        "new_value": "1.9.1"
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-20",
+        "kind": "version",
+        "old_value": "1.9.1",
+        "new_value": "1.12.0"
+      },
+      {
+        "detected_on": "2026-11-21",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-21",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-21",
+        "kind": "version",
+        "old_value": "1.12.0",
+        "new_value": "1.13.0"
+      },
+      {
+        "detected_on": "2026-11-22",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-22",
+        "kind": "version",
+        "old_value": "1.13.0",
+        "new_value": "1.15.0"
+      }
+    ]
+  },
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "@pidgeon-ai/mcp",
+      "declared_version": "1.15.0",
+      "transport": "stdio",
+      "state": {
+        "status": "found",
+        "latest": "1.19.0",
+        "deprecated": true,
+        "not_found_confirmed": false
+      },
+      "first_checked_on": "2026-10-22",
+      "events": [
+        {
+          "detected_on": "2026-10-22",
+          "kind": "latest_changed",
+          "old_value": "0.12.2",
+          "new_value": "0.12.4"
+        },
+        {
+          "detected_on": "2026-10-23",
+          "kind": "latest_changed",
+          "old_value": "0.12.4",
+          "new_value": "0.14.0"
+        },
+        {
+          "detected_on": "2026-10-24",
+          "kind": "latest_changed",
+          "old_value": "0.14.0",
+          "new_value": "0.16.0"
+        },
+        {
+          "detected_on": "2026-10-25",
+          "kind": "latest_changed",
+          "old_value": "0.16.0",
+          "new_value": "0.17.0"
+        },
+        {
+          "detected_on": "2026-10-27",
+          "kind": "latest_changed",
+          "old_value": "0.17.0",
+          "new_value": "0.18.0"
+        },
+        {
+          "detected_on": "2026-10-29",
+          "kind": "latest_changed",
+          "old_value": "0.18.0",
+          "new_value": "0.20.0"
+        },
+        {
+          "detected_on": "2026-10-31",
+          "kind": "latest_changed",
+          "old_value": "0.20.0",
+          "new_value": "0.22.0"
+        },
+        {
+          "detected_on": "2026-11-01",
+          "kind": "latest_changed",
+          "old_value": "0.22.0",
+          "new_value": "0.23.0"
+        },
+        {
+          "detected_on": "2026-11-03",
+          "kind": "latest_changed",
+          "old_value": "0.23.0",
+          "new_value": "0.24.1"
+        },
+        {
+          "detected_on": "2026-11-04",
+          "kind": "latest_changed",
+          "old_value": "0.24.1",
+          "new_value": "0.28.0"
+        },
+        {
+          "detected_on": "2026-11-05",
+          "kind": "latest_changed",
+          "old_value": "0.28.0",
+          "new_value": "0.28.2"
+        },
+        {
+          "detected_on": "2026-11-14",
+          "kind": "latest_changed",
+          "old_value": "0.28.2",
+          "new_value": "1.0.0"
+        },
+        {
+          "detected_on": "2026-11-15",
+          "kind": "latest_changed",
+          "old_value": "1.0.0",
+          "new_value": "1.4.0"
+        },
+        {
+          "detected_on": "2026-11-16",
+          "kind": "latest_changed",
+          "old_value": "1.4.0",
+          "new_value": "1.6.0"
+        },
+        {
+          "detected_on": "2026-11-17",
+          "kind": "latest_changed",
+          "old_value": "1.6.0",
+          "new_value": "1.7.0"
+        },
+        {
+          "detected_on": "2026-11-18",
+          "kind": "latest_changed",
+          "old_value": "1.7.0",
+          "new_value": "1.9.1"
+        },
+        {
+          "detected_on": "2026-11-19",
+          "kind": "latest_changed",
+          "old_value": "1.9.1",
+          "new_value": "1.12.0"
+        },
+        {
+          "detected_on": "2026-11-20",
+          "kind": "latest_changed",
+          "old_value": "1.12.0",
+          "new_value": "1.14.0"
+        },
+        {
+          "detected_on": "2026-11-21",
+          "kind": "latest_changed",
+          "old_value": "1.14.0",
+          "new_value": "1.15.0"
+        },
+        {
+          "detected_on": "2026-11-27",
+          "kind": "deprecated",
+          "old_value": "1.19.0",
+          "new_value": null
+        },
+        {
+          "detected_on": "2026-11-27",
+          "kind": "latest_changed",
+          "old_value": "1.15.0",
+          "new_value": "1.19.0"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Package code was not installed or run.",
+    "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
+    "Deprecated, yanked and project status are flags set on npm or PyPI by the package owner or index. They are not a judgment by Lowdown.",
+    "HTTP 404 facts are listed only after a later check also returned 404.",
+    "\"First recorded\" is the date Lowdown first saw a state, not the date the state began."
+  ],
+  "source": {
+    "name": "Lowdown",
+    "dataset": "https://github.com/PetShopBros/lowdown-data",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Lowdown (https://github.com/PetShopBros/lowdown-data), CC BY 4.0"
+  }
+}
