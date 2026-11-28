@@ -17,8 +17,8 @@
     }
   ],
   "registry": {
-    "status": "active",
-    "version": "1.15.0",
+    "status": "deprecated",
+    "version": "1.17.0",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -328,6 +328,30 @@
         "kind": "version",
         "old_value": "1.13.0",
         "new_value": "1.15.0"
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "description",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "status",
+        "old_value": "active",
+        "new_value": "deprecated"
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "version",
+        "old_value": "1.15.0",
+        "new_value": "1.17.0"
       }
     ]
   },
@@ -335,7 +359,7 @@
     {
       "registry_type": "npm",
       "identifier": "@pidgeon-ai/mcp",
-      "declared_version": "1.15.0",
+      "declared_version": "1.17.0",
       "transport": "stdio",
       "state": {
         "status": "found",

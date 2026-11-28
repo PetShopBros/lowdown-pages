@@ -2,7 +2,7 @@
   "schema": "lowdown-server-index/1",
   "data_as_of": "2026-11-27T20:37:16.403+00:00",
   "count": 728,
-  "with_facts": 702,
+  "with_facts": 701,
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "servers": [
@@ -91,10 +91,8 @@
       "name": "ai.sendinel/mcp-server",
       "page": "https://petshopbros.github.io/lowdown-pages/servers/ai.sendinel/mcp-server.html",
       "json": "https://petshopbros.github.io/lowdown-pages/servers/ai.sendinel/mcp-server.json",
-      "facts": [
-        "declared_package_deprecated"
-      ],
-      "last_checked_on": "2026-11-27"
+      "facts": [],
+      "last_checked_on": null
     },
     {
       "name": "ai.sentvia/mcp",

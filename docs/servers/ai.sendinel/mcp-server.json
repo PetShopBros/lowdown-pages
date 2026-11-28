@@ -4,21 +4,10 @@
   "page_url": "https://petshopbros.github.io/lowdown-pages/servers/ai.sendinel/mcp-server.html",
   "json_url": "https://petshopbros.github.io/lowdown-pages/servers/ai.sendinel/mcp-server.json",
   "api_url": "https://lowdown-proxy.vercel.app/api/reputation/mcp:ai.sendinel/mcp-server",
-  "facts": [
-    {
-      "code": "declared_package_deprecated",
-      "registry_type": "npm",
-      "identifier": "@sendinel/mcp-server",
-      "version": "1.0.332",
-      "since": {
-        "on": "2026-11-27",
-        "basis": "change"
-      }
-    }
-  ],
+  "facts": [],
   "registry": {
     "status": "active",
-    "version": "1.0.329",
+    "version": "1.0.341",
     "first_seen_on": "2026-10-19",
     "baseline": true,
     "removed_on": null,
@@ -442,224 +431,22 @@
         "kind": "version",
         "old_value": "1.0.313",
         "new_value": "1.0.329"
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "packages",
+        "old_value": null,
+        "new_value": null
+      },
+      {
+        "detected_on": "2026-11-28",
+        "kind": "version",
+        "old_value": "1.0.329",
+        "new_value": "1.0.341"
       }
     ]
   },
-  "packages": [
-    {
-      "registry_type": "npm",
-      "identifier": "@sendinel/mcp-server",
-      "declared_version": "1.0.329",
-      "transport": "stdio",
-      "state": {
-        "status": "found",
-        "latest": "1.0.332",
-        "deprecated": true,
-        "not_found_confirmed": false
-      },
-      "first_checked_on": "2026-10-22",
-      "events": [
-        {
-          "detected_on": "2026-10-23",
-          "kind": "latest_changed",
-          "old_value": "1.0.62",
-          "new_value": "1.0.66"
-        },
-        {
-          "detected_on": "2026-10-24",
-          "kind": "latest_changed",
-          "old_value": "1.0.66",
-          "new_value": "1.0.70"
-        },
-        {
-          "detected_on": "2026-10-26",
-          "kind": "latest_changed",
-          "old_value": "1.0.70",
-          "new_value": "1.0.77"
-        },
-        {
-          "detected_on": "2026-10-27",
-          "kind": "latest_changed",
-          "old_value": "1.0.77",
-          "new_value": "1.0.78"
-        },
-        {
-          "detected_on": "2026-10-28",
-          "kind": "latest_changed",
-          "old_value": "1.0.78",
-          "new_value": "1.0.87"
-        },
-        {
-          "detected_on": "2026-10-29",
-          "kind": "latest_changed",
-          "old_value": "1.0.87",
-          "new_value": "1.0.91"
-        },
-        {
-          "detected_on": "2026-10-31",
-          "kind": "latest_changed",
-          "old_value": "1.0.91",
-          "new_value": "1.0.92"
-        },
-        {
-          "detected_on": "2026-11-01",
-          "kind": "latest_changed",
-          "old_value": "1.0.92",
-          "new_value": "1.0.94"
-        },
-        {
-          "detected_on": "2026-11-02",
-          "kind": "latest_changed",
-          "old_value": "1.0.94",
-          "new_value": "1.0.99"
-        },
-        {
-          "detected_on": "2026-11-03",
-          "kind": "latest_changed",
-          "old_value": "1.0.99",
-          "new_value": "1.0.113"
-        },
-        {
-          "detected_on": "2026-11-04",
-          "kind": "latest_changed",
-          "old_value": "1.0.113",
-          "new_value": "1.0.125"
-        },
-        {
-          "detected_on": "2026-11-05",
-          "kind": "latest_changed",
-          "old_value": "1.0.125",
-          "new_value": "1.0.132"
-        },
-        {
-          "detected_on": "2026-11-06",
-          "kind": "latest_changed",
-          "old_value": "1.0.132",
-          "new_value": "1.0.151"
-        },
-        {
-          "detected_on": "2026-11-07",
-          "kind": "latest_changed",
-          "old_value": "1.0.151",
-          "new_value": "1.0.172"
-        },
-        {
-          "detected_on": "2026-11-08",
-          "kind": "latest_changed",
-          "old_value": "1.0.172",
-          "new_value": "1.0.189"
-        },
-        {
-          "detected_on": "2026-11-09",
-          "kind": "latest_changed",
-          "old_value": "1.0.189",
-          "new_value": "1.0.197"
-        },
-        {
-          "detected_on": "2026-11-10",
-          "kind": "latest_changed",
-          "old_value": "1.0.197",
-          "new_value": "1.0.209"
-        },
-        {
-          "detected_on": "2026-11-11",
-          "kind": "latest_changed",
-          "old_value": "1.0.209",
-          "new_value": "1.0.218"
-        },
-        {
-          "detected_on": "2026-11-12",
-          "kind": "latest_changed",
-          "old_value": "1.0.218",
-          "new_value": "1.0.227"
-        },
-        {
-          "detected_on": "2026-11-13",
-          "kind": "latest_changed",
-          "old_value": "1.0.227",
-          "new_value": "1.0.238"
-        },
-        {
-          "detected_on": "2026-11-14",
-          "kind": "latest_changed",
-          "old_value": "1.0.238",
-          "new_value": "1.0.256"
-        },
-        {
-          "detected_on": "2026-11-17",
-          "kind": "latest_changed",
-          "old_value": "1.0.256",
-          "new_value": "1.0.257"
-        },
-        {
-          "detected_on": "2026-11-18",
-          "kind": "latest_changed",
-          "old_value": "1.0.257",
-          "new_value": "1.0.262"
-        },
-        {
-          "detected_on": "2026-11-19",
-          "kind": "latest_changed",
-          "old_value": "1.0.262",
-          "new_value": "1.0.269"
-        },
-        {
-          "detected_on": "2026-11-20",
-          "kind": "latest_changed",
-          "old_value": "1.0.269",
-          "new_value": "1.0.274"
-        },
-        {
-          "detected_on": "2026-11-21",
-          "kind": "latest_changed",
-          "old_value": "1.0.274",
-          "new_value": "1.0.283"
-        },
-        {
-          "detected_on": "2026-11-22",
-          "kind": "latest_changed",
-          "old_value": "1.0.283",
-          "new_value": "1.0.284"
-        },
-        {
-          "detected_on": "2026-11-23",
-          "kind": "latest_changed",
-          "old_value": "1.0.284",
-          "new_value": "1.0.286"
-        },
-        {
-          "detected_on": "2026-11-24",
-          "kind": "latest_changed",
-          "old_value": "1.0.286",
-          "new_value": "1.0.295"
-        },
-        {
-          "detected_on": "2026-11-25",
-          "kind": "latest_changed",
-          "old_value": "1.0.295",
-          "new_value": "1.0.311"
-        },
-        {
-          "detected_on": "2026-11-26",
-          "kind": "latest_changed",
-          "old_value": "1.0.311",
-          "new_value": "1.0.320"
-        },
-        {
-          "detected_on": "2026-11-27",
-          "kind": "deprecated",
-          "old_value": "1.0.332",
-          "new_value": null
-        },
-        {
-          "detected_on": "2026-11-27",
-          "kind": "latest_changed",
-          "old_value": "1.0.320",
-          "new_value": "1.0.332"
-        }
-      ]
-    }
-  ],
+  "packages": [],
   "limits": [
     "Package code was not installed or run.",
     "Deprecation messages, yank reasons, descriptions and READMEs are not stored.",
